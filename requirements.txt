@@ -5,3 +5,6 @@ flask-cors
 opencv-python-headless
 pillow
 gunicorn
+matplotlib
+groq
+scikit-learn

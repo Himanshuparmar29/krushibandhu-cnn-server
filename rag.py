@@ -1,102 +1,86 @@
 """
-rag.py — Knowledge retrieval system
+rag.py — Lightweight TF-IDF knowledge retrieval (no PyTorch/FAISS)
+Replaces the original faiss + sentence-transformers implementation
+which is too heavy for Render free tier (512 MB RAM).
 """
 
 import os
+import re
 import pickle
-import numpy as np
-import faiss
+from pathlib import Path
+from typing import List, Dict
 
-from sentence_transformers import SentenceTransformer
-from knowledge_base import get_all_documents
+import numpy as np
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
+
 from symptom_map import SYMPTOM_MAP
 
-EMBED_MODEL = "all-MiniLM-L6-v2"
+KNOWLEDGE_DIR = "knowledge"   # folder with .txt disease files
+CHUNK_SIZE    = 600
+CHUNK_OVERLAP = 60
+TOP_K         = 4
 
-INDEX_PATH = "rag_index/faiss.index"
-DOCS_PATH = "rag_index/documents.pkl"
-
-TOP_K = 4
-
-
-def load_embedding_model():
-    return SentenceTransformer(EMBED_MODEL)
-
-
-def build_vector_store():
-
-    os.makedirs("rag_index", exist_ok=True)
-
-    embed_model = load_embedding_model()
-
-    documents = get_all_documents()
-
-    texts = [doc["text"] for doc in documents]
-
-    embeddings = embed_model.encode(texts, convert_to_numpy=True)
-
-    embeddings = embeddings.astype(np.float32)
-
-    faiss.normalize_L2(embeddings)
-
-    dimension = embeddings.shape[1]
-
-    index = faiss.IndexFlatIP(dimension)
-
-    index.add(embeddings)
-
-    faiss.write_index(index, INDEX_PATH)
-
-    with open(DOCS_PATH, "wb") as f:
-        pickle.dump(documents, f)
-
-    print("RAG index built successfully.")
+# ── Build index once at import time ───────────────────────────────────────────
+_chunks: List[Dict] = []
+_vectorizer: TfidfVectorizer = None
+_matrix = None
 
 
-def load_vector_store():
-
-    if not os.path.exists(INDEX_PATH):
-        build_vector_store()
-
-    index = faiss.read_index(INDEX_PATH)
-
-    with open(DOCS_PATH, "rb") as f:
-        documents = pickle.load(f)
-
-    embed_model = load_embedding_model()
-
-    return index, documents, embed_model
+def _chunk_text(text: str, source: str) -> List[Dict]:
+    chunks, start = [], 0
+    text = re.sub(r'\r\n', '\n', text)
+    while start < len(text):
+        end   = min(start + CHUNK_SIZE, len(text))
+        chunk = text[start:end].strip()
+        if len(chunk) > 60:
+            chunks.append({"text": chunk, "source": source})
+        start += CHUNK_SIZE - CHUNK_OVERLAP
+    return chunks
 
 
-def retrieve_for_disease(disease_name):
+def _build_index():
+    global _chunks, _vectorizer, _matrix
+    path = Path(KNOWLEDGE_DIR)
+    if not path.exists():
+        print(f"[RAG] Knowledge dir '{KNOWLEDGE_DIR}' not found — RAG disabled.")
+        return
 
-    index, documents, embed_model = load_vector_store()
+    all_chunks = []
+    for txt in sorted(path.glob("*.txt")):
+        raw    = txt.read_text(encoding="utf-8", errors="ignore")
+        chunks = _chunk_text(raw, txt.stem)
+        all_chunks.extend(chunks)
 
-    symptoms = SYMPTOM_MAP.get(disease_name, [])
+    if not all_chunks:
+        print("[RAG] No .txt files found.")
+        return
 
+    _chunks = all_chunks
+    texts   = [c["text"] for c in all_chunks]
+    _vectorizer = TfidfVectorizer(max_features=15000, ngram_range=(1, 2), sublinear_tf=True)
+    _matrix = _vectorizer.fit_transform(texts)
+    print(f"[RAG] TF-IDF index: {len(_chunks)} chunks, {_matrix.shape[1]} features")
+
+
+# Build at import time (module-level, works with Gunicorn)
+_build_index()
+
+
+def retrieve_for_disease(disease_name: str) -> List[Dict]:
+    """Return top-K relevant chunks for the given disease name."""
+    if not _chunks or _vectorizer is None:
+        return []
+
+    symptoms     = SYMPTOM_MAP.get(disease_name, [])
     symptom_text = " ".join(symptoms)
+    query        = f"cotton crop disease {disease_name} symptoms {symptom_text} treatment prevention organic remedy"
 
-    query = f"""
-    cotton crop disease {disease_name}
-    symptoms {symptom_text}
-    treatment prevention organic remedy
-    """
+    q_vec  = _vectorizer.transform([query])
+    scores = cosine_similarity(q_vec, _matrix)[0]
+    top_k  = scores.argsort()[::-1][:TOP_K]
 
-    query_vec = embed_model.encode([query], convert_to_numpy=True)
-
-    query_vec = query_vec.astype(np.float32)
-
-    faiss.normalize_L2(query_vec)
-
-    scores, indices = index.search(query_vec, TOP_K)
-
-    results = []
-
-    for idx in indices[0]:
-
-        if idx == -1:
-            continue
-
-        results.append(documents[idx])
-
-    return results
+    return [
+        {**_chunks[i], "score": float(scores[i])}
+        for i in top_k if scores[i] > 0.01
+    ]
