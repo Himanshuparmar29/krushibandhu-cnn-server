@@ -1,0 +1,282 @@
+================================================================================
+PEST 1: APHIDS (Aphis gossypii – Cotton Aphid / Melon Aphid)
+================================================================================
+
+1. OVERVIEW
+------------
+Aphids are one of the most common and damaging pests of cotton worldwide.
+They are tiny, soft-bodied insects that live in large groups and feed by
+sucking sap from the plant. A small number of aphids can quickly grow into
+a very large population within days, making early detection extremely
+important. In India, aphid attacks are commonly reported in cotton-growing
+states like Gujarat, Maharashtra, Telangana, and Punjab.
+
+2. IDENTIFICATION
+-----------------
+- Size: Very small, about 1–2 mm in length (smaller than a sesame seed).
+- Color: Usually yellow, light green, or dark green. Some may appear
+  blackish or grey.
+- Shape: Soft, pear-shaped body with two small tubes (called cornicles)
+  sticking out from the back end.
+- Found in clusters on the underside of leaves, on tender shoots, and
+  on young buds.
+- Winged and wingless forms both exist. Winged aphids spread the pest
+  to new plants and fields.
+- Sticky honeydew secretion on leaves is a key sign of aphid presence.
+
+3. DAMAGE TO CROP
+-----------------
+- Aphids suck the plant's sap, which weakens the cotton plant.
+- Leaves curl downward and inward (cupping effect) – this is a classic
+  sign of aphid attack.
+- Heavy feeding causes leaves to turn yellow, wilt, and dry up.
+- Aphids produce a sticky liquid called honeydew. This promotes the
+  growth of black sooty mould on leaves, which blocks sunlight and
+  reduces photosynthesis.
+- Aphids also transmit dangerous plant viruses like Cotton Leaf Curl
+  Virus (CLCuV), which can destroy an entire crop.
+- Boll formation is affected in severe cases, leading to yield loss of
+  up to 30–40%.
+
+4. LIFE CYCLE
+-------------
+- Aphids reproduce very fast. In warm weather, a new generation can
+  appear in just 7–10 days.
+- One female aphid can give birth to 50–100 young ones in her lifetime
+  without mating (asexual reproduction).
+- Both winged and wingless forms exist. Wingless aphids stay on the
+  same plant; winged aphids fly to new plants, spreading the infestation.
+- Under hot and dry conditions, populations can explode rapidly.
+- The life cycle from birth to adult takes only 7–10 days.
+
+5. CONDITIONS FAVORING PEST ATTACK
+------------------------------------
+- Hot and dry weather (temperature 25–30°C) with low humidity.
+- Excessive use of nitrogen fertilizers (makes plants more attractive
+  to aphids).
+- Dense plant canopy with poor air circulation.
+- Absence of natural enemies in the field.
+- Early-season attacks (30–60 days after sowing) are most damaging.
+
+6. PREVENTION
+-------------
+- Avoid excess nitrogen fertilizer application.
+- Use certified, virus-free seeds.
+- Maintain proper plant spacing for good air flow.
+- Remove and destroy volunteer cotton plants and weeds (alternate hosts).
+- Monitor fields regularly, especially the underside of leaves.
+- Install yellow sticky traps (5 traps per acre) to detect winged
+  aphids early.
+
+7. CONTROL METHODS
+------------------
+
+CULTURAL CONTROL:
+- Deep ploughing in summer to destroy pest eggs and alternate hosts.
+- Remove heavily infested leaves and shoots early.
+- Avoid planting cotton near sugarcane or vegetables that harbor aphids.
+- Intercrop cotton with coriander or marigold to attract beneficial
+  insects.
+
+BIOLOGICAL CONTROL:
+- Encourage natural enemies: ladybird beetles (ladybugs), lacewings,
+  hoverfly larvae, and parasitic wasps (Lysiphlebus testaceipes) are
+  natural predators of aphids.
+- Release Chrysoperla carnea (green lacewing) @ 50,000 eggs per acre –
+  very effective against aphids.
+- Avoid broad-spectrum pesticides that kill natural enemies.
+
+CHEMICAL CONTROL:
+- Spray only when aphid population crosses the Economic Threshold Level
+  (ETL): 20–25 aphids per leaf or when more than 25% of plants show
+  infestation.
+- Recommended chemicals:
+    • Imidacloprid 17.8% SL @ 100 ml per acre (systemic insecticide)
+    • Thiamethoxam 25% WG @ 40 g per acre
+    • Dimethoate 30% EC @ 300 ml per acre
+    • Acetamiprid 20% SP @ 100 g per acre
+- Use neem-based pesticides (Azadirachtin 1500 ppm) @ 600–800 ml per
+  acre as a safer first option.
+- Rotate chemicals to prevent resistance.
+
+8. INTEGRATED PEST MANAGEMENT (IPM)
+-------------------------------------
+- Week 1–3: Monitor weekly using yellow sticky traps and scouting.
+- Use neem oil spray (5 ml/litre) as a preventive measure.
+- Release Chrysoperla carnea at first sign of aphids.
+- Apply chemical spray only if ETL is crossed.
+- Avoid calendar-based spraying – spray only when needed.
+- Keep spray records and rotate chemical groups.
+
+9. FARMER FIELD TIPS
+----------------------
+- Check the underside of young leaves every 3–4 days from the 30th day
+  after sowing.
+- If you see curled leaves or black sooty mould, aphids are likely
+  already present.
+- A strong jet of water can dislodge aphids from plants – useful for
+  small infestations.
+- Do not apply excess urea – it encourages soft, succulent growth that
+  attracts aphids.
+- Ladybird beetles are your friends – do not spray when you see them
+  in the field.
+- "Ek paudha, ek nazar" – inspect at least 10 plants per acre while
+  walking through the field.
+
+--------------------------------------------------------------------------------
+
+================================================================================
+PEST 2: ARMY WORM (Spodoptera frugiperda / Spodoptera exigua – Beet Army Worm)
+================================================================================
+
+1. OVERVIEW
+------------
+Army worms are caterpillars (larvae) of moths belonging to the Spodoptera
+group. They are called "army worms" because they move in large numbers
+from field to field like an army, devouring crops in their path. They are
+a serious threat to cotton, especially during the early vegetative stage.
+Spodoptera frugiperda (Fall Army Worm) is an invasive pest that has
+recently spread to India and can cause severe damage if not controlled
+quickly. Spodoptera exigua (Beet Army Worm) is a long-established pest
+in Indian cotton fields.
+
+2. IDENTIFICATION
+-----------------
+- Eggs: Tiny, round, laid in clusters (100–200 eggs) on leaves. Covered
+  with grey/brown hairy scales. Egg masses look like small cottony patches.
+- Larvae (caterpillar): 
+    • Young larvae: pale green or yellowish-green, small (2–3 mm).
+    • Mature larvae: 35–40 mm long, greenish-brown to dark brown/black.
+    • Distinctive inverted "Y" mark on the head (for Fall Army Worm).
+    • Four dark spots arranged in a square on the last abdominal segment.
+    • Lighter side stripes running along the body length.
+- Pupa: Reddish-brown, found in soil (2–5 cm deep).
+- Adult moth: Brown/grey forewings with white hindwings. 
+  wingspan about 32–40 mm. Active at night.
+
+3. DAMAGE TO CROP
+-----------------
+- Young larvae (1st–2nd stage): Scrape leaf surface, causing a
+  "window-pane" effect – leaves look transparent or papery.
+- Older larvae feed aggressively – completely skeletonizing leaves,
+  leaving only the midrib and veins.
+- Attack on growing point (apical meristem) causes "dead heart" –
+  the central shoot dies, stunting plant growth.
+- Damage to squares (flower buds) and bolls reduces yield directly.
+- In severe attacks, entire fields can be defoliated within 2–3 days.
+- Larvae also bore into stems and bolls in later stages.
+- Yield losses can reach 20–70% in severe outbreaks.
+
+4. LIFE CYCLE
+-------------
+- Complete life cycle: 30–40 days (egg to adult).
+- EGG STAGE: 2–4 days. Eggs laid at night in groups on leaf surface.
+- LARVAL STAGE: 14–21 days. The most damaging stage. Six larval
+  instars (stages). Early instars feed in groups; later instars
+  scatter and feed independently.
+- PUPAL STAGE: 7–10 days. Pupation occurs in the soil.
+- ADULT STAGE: 7–10 days. Female moth can lay 1,000–2,000 eggs in
+  her lifetime.
+- Multiple generations per year (4–6 generations in warm climates).
+- Migrates long distances aided by wind.
+
+5. CONDITIONS FAVORING PEST ATTACK
+------------------------------------
+- Warm temperatures (25–35°C) with moderate humidity.
+- Cloudy weather and high rainfall can suppress natural predators,
+  allowing army worm populations to rise.
+- Dense crop canopy providing shelter and humidity.
+- Monoculture farming (continuous cotton without crop rotation).
+- Lack of natural enemies.
+- Early season (0–45 days after sowing) is most vulnerable.
+
+6. PREVENTION
+-------------
+- Use certified seeds and treated seeds (imidacloprid seed treatment).
+- Deep summer ploughing destroys pupae in the soil.
+- Crop rotation – avoid planting cotton after maize (a preferred host).
+- Maintain field hygiene – remove crop debris after harvest.
+- Install light traps (1 per acre) to attract and trap adult moths.
+- Set up pheromone traps (Spodoptera lure, 5 traps per acre) for
+  early detection and mass trapping of male moths.
+- Avoid excess nitrogen application.
+
+7. CONTROL METHODS
+------------------
+
+CULTURAL CONTROL:
+- Deep ploughing exposes pupae to sun and predators.
+- Flood irrigation can drown soil-dwelling pupae.
+- Hand-pick and destroy egg masses and early instar larvae during
+  morning scouting.
+- Remove weeds (alternate hosts like Amaranthus, sorghum).
+- Set up bird perches (10–12 per acre) – birds like mynas and starlings
+  feed on exposed larvae.
+
+BIOLOGICAL CONTROL:
+- Spray Nuclear Polyhedrosis Virus (NPV of Spodoptera) @ 250 Larval
+  Equivalent (LE) per acre – this is a virus that kills army worm
+  larvae naturally and is very safe.
+- Release Trichogramma pretiosum (egg parasitoid) @ 50,000–1,00,000
+  per acre to destroy eggs before hatching.
+- Bacillus thuringiensis (Bt) spray @ 500–700 g per acre – highly
+  effective against young caterpillars.
+- Encourage natural enemies: ground beetles, spiders, predatory bugs
+  (Geocoris), and parasitic wasps.
+
+CHEMICAL CONTROL:
+- ETL (Economic Threshold Level): 5–8 larvae per row meter OR when
+  10% plants show fresh damage.
+- Recommended chemicals:
+    • Chlorantraniliprole (Coragen) 18.5% SC @ 60 ml per acre
+      (very effective, low toxicity to mammals)
+    • Spinetoram 11.7% SC @ 200 ml per acre
+    • Emamectin benzoate 5% SG @ 80–100 g per acre
+    • Lambda-cyhalothrin 4.9% CS @ 200 ml per acre
+    • Flubendiamide 39.35% SC @ 50 ml per acre
+- Spray in the evening (larvae are active at night).
+- Target spray towards growing point and inner canopy.
+- Rotate insecticide groups to avoid resistance development.
+
+8. INTEGRATED PEST MANAGEMENT (IPM)
+-------------------------------------
+Step 1 – Prevention: Deep plough + pheromone traps + light traps
+         before and at sowing.
+Step 2 – Monitoring: Scout twice a week. Look for egg masses,
+         window-pane damage, and frass (caterpillar droppings).
+Step 3 – Biological first: Release Trichogramma at egg stage.
+         Spray NPV or Bt at early larval stage.
+Step 4 – Chemical only if needed: Apply selective insecticides
+         (Coragen/Emamectin) only when ETL is crossed.
+Step 5 – Record-keeping: Maintain pest diary for better decisions
+         next season.
+
+9. FARMER FIELD TIPS
+----------------------
+- Scout fields early in the morning – army worms hide in soil or leaf
+  folds during the day. Look for fresh green droppings (frass) near the
+  plant base as a sign of larval presence.
+- One pheromone trap per acre can help you know when adult moths are
+  active – spray within 7–10 days of trap catches rising sharply.
+- Birds are your best friend against army worms – set up bamboo
+  perches across the field.
+- Never spray the same chemical group twice in a row. Rotate between
+  different chemical groups (diamides → spinosyns → pyrethroids).
+- If more than 5 worms are found per plant in a cluster – it is already
+  an emergency. Call your local agriculture extension officer immediately.
+- Spray in the evening for best results – army worm larvae feed
+  actively at night.
+- "Pehle dekho, phir nirnay lo" – Always scout before spraying.
+  Do not spray on a fixed schedule.
+
+================================================================================
+          END OF KRUSHHIBANDHU PEST GUIDE – COTTON PESTS (PART 1)
+          Next: Bollworm, Whitefly, Thrips, Jassids, Mealybug
+================================================================================
+
+Guide Version: 1.0
+Prepared for: KrushiBandhu AI Farming Assistant (RAG Knowledge Base)
+Language: Simple English (suitable for translation into regional languages)
+Target Users: Cotton Farmers, Extension Workers, Agri-input Dealers
+Sources: ICAR, CICR, FAO, CABI, State Agricultural Universities (India)
+================================================================================

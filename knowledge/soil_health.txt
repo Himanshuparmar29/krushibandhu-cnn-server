@@ -1,0 +1,447 @@
+================================================================================
+        KRUSHIHANDHU – SOIL MANAGEMENT GUIDE FOR COTTON FARMING
+        Crop: Cotton (Gossypium hirsutum and related species)
+        Prepared by: Soil Science Division
+        Purpose: RAG System Knowledge Document for AI Farming Assistant
+        Language: Simple English (Ready for translation to Gujarati and Hindi)
+================================================================================
+
+================================================================================
+SECTION 1: IMPORTANCE OF SOIL HEALTH
+================================================================================
+
+Soil is not just dirt under your feet. It is a living, breathing system that feeds
+your crop, holds water, and supports the roots that keep your cotton plant standing.
+Healthy soil is the foundation of a good cotton harvest. Without it, no amount of
+fertilizer, water, or pesticide can fully save your crop.
+
+Think of soil as a bank account. Every good practice you do — adding compost,
+rotating crops, reducing tillage — deposits health into that account. Every bad
+practice — overusing chemicals, leaving soil bare, over-irrigation — withdraws
+from it. If you keep withdrawing without depositing, the account runs dry.
+
+WHY SOIL HEALTH MATTERS FOR COTTON:
+
+  ► Healthy soil provides nutrients that cotton needs to grow strong bolls and
+    produce good quality fiber.
+  ► Good soil structure allows roots to go deep, helping the plant survive dry
+    periods and stand strong against winds.
+  ► Healthy soil holds moisture better, reducing how often you need to irrigate.
+  ► Soil with good microbial activity naturally suppresses some diseases and pests.
+  ► Healthy soil reduces your input costs over time — you need less fertilizer,
+    less water, and fewer pest treatments.
+  ► Degraded soil produces lower yields year after year, no matter how much
+    you spend on inputs.
+
+A farmer who takes care of the soil takes care of the future of his farm.
+
+================================================================================
+SECTION 2: IDEAL SOIL FOR COTTON
+================================================================================
+
+Cotton is a strong and adaptable crop, but it grows best and produces the highest
+yields in specific soil conditions. Knowing your ideal soil helps you understand
+what improvements your field may need.
+
+SOIL TYPE:
+  - Cotton grows best in deep, well-drained loamy or clay-loam soils.
+  - Black cotton soil (also called Regur or Vertisol) found across central and
+    western India is naturally well-suited for cotton. It holds moisture well
+    and is rich in calcium, magnesium, and potassium.
+  - Sandy soils can also support cotton but need more irrigation and organic
+    matter to retain nutrients.
+  - Avoid very heavy clay soils that become waterlogged — cotton roots cannot
+    breathe in waterlogged conditions and the plant will suffer.
+
+SOIL DEPTH:
+  - Cotton has a deep taproot that can go 1.5 to 2 meters into the soil.
+  - Soil should be at least 60–90 cm deep for good root development.
+  - Shallow, rocky, or hardpan soils restrict root growth and reduce yield.
+
+SOIL pH (ACIDITY / ALKALINITY):
+  - Cotton grows best at a pH of 6.0 to 8.0 (slightly acidic to slightly
+    alkaline).
+  - The ideal pH is 6.5 to 7.5.
+  - pH below 6.0 (too acidic): Add agricultural lime to raise pH.
+  - pH above 8.5 (too alkaline/saline): Add gypsum or sulphur to lower pH.
+  - Always test pH before making adjustments.
+
+DRAINAGE:
+  - Cotton cannot tolerate waterlogging even for short periods.
+  - Fields must have good natural or constructed drainage to remove excess
+    water after heavy rains.
+  - Provide drainage channels or raised bed planting in flood-prone areas.
+
+SOIL TEXTURE SUMMARY:
+
+  Soil Type         | Suitability for Cotton | Main Challenge
+  ----------------- | ---------------------- | --------------------------
+  Black cotton soil | Excellent              | Needs drainage in wet years
+  Clay-loam         | Very Good              | Avoid waterlogging
+  Loamy             | Good                   | Needs regular organic matter
+  Sandy loam        | Fair                   | Needs more irrigation
+  Sandy             | Poor                   | High water and nutrient loss
+  Heavy clay        | Poor                   | Waterlogging, root stress
+
+================================================================================
+SECTION 3: SOIL TESTING
+================================================================================
+
+Soil testing is like a health check-up for your field. It tells you exactly what
+nutrients are present, what is missing, and what corrections need to be made.
+Many farmers apply fertilizers blindly — too much of one nutrient and too little
+of another. This wastes money and can even damage the crop. Soil testing removes
+this guesswork.
+
+WHEN TO TEST:
+  - Test your soil at least ONCE every 2–3 years.
+  - Best time to test: 4–6 weeks before planting cotton, after the previous
+    crop has been harvested and field is ploughed.
+  - If you see unusual symptoms in your crop (yellowing, stunted growth,
+    poor boll development), test soil immediately.
+
+HOW TO COLLECT A SOIL SAMPLE:
+  Step 1: Divide your field into sections if different parts look or perform
+          differently.
+  Step 2: In each section, use a clean spade or soil auger to collect soil
+          from 10–15 random spots in a zigzag pattern.
+  Step 3: Collect soil from a depth of 0–15 cm (for nutrient analysis) and
+          also 15–30 cm (for sub-soil assessment if needed).
+  Step 4: Mix all the samples from one section together in a clean bucket.
+  Step 5: Take about 500 grams of the mixed soil, dry it in shade, and pack
+          in a clean cloth bag or plastic bag.
+  Step 6: Label the bag with your name, field location, and crop name.
+  Step 7: Submit the sample to your nearest Soil Testing Laboratory (STL),
+          Krishi Vigyan Kendra (KVK), or agriculture department office.
+
+WHAT SOIL TESTING TELLS YOU:
+  - pH level (acidity or alkalinity)
+  - Organic carbon content
+  - Available Nitrogen (N), Phosphorus (P), Potassium (K)
+  - Secondary nutrients: Calcium (Ca), Magnesium (Mg), Sulphur (S)
+  - Micronutrients: Zinc (Zn), Boron (B), Iron (Fe), Manganese (Mn)
+  - Salinity and electrical conductivity (important in Gujarat and Rajasthan)
+
+GOVERNMENT SOIL HEALTH CARD SCHEME:
+  Under the Government of India's Soil Health Card (SHC) scheme, farmers can get
+  free soil testing done at government labs. The card gives fertilizer
+  recommendations specific to your soil and crop. Contact your local agriculture
+  extension officer to apply.
+
+================================================================================
+SECTION 4: IMPROVING SOIL FERTILITY
+================================================================================
+
+Soil fertility means how well your soil can supply nutrients to the cotton plant.
+A fertile soil does not just have nutrients — it also has the physical structure
+and biological life to make those nutrients available to plant roots.
+
+BALANCED FERTILIZER USE (Based on Soil Test Recommendations):
+
+  Cotton generally needs these nutrients per acre (adjust based on soil test):
+
+  Nutrient          | Recommended Dose (per acre)  | Source
+  ----------------- | ----------------------------- | ----------------------------
+  Nitrogen (N)      | 40–60 kg                      | Urea, DAP, FYM
+  Phosphorus (P)    | 20–30 kg                      | Single Superphosphate, DAP
+  Potassium (K)     | 20–30 kg                      | Muriate of Potash (MOP)
+  Sulphur (S)       | 10–15 kg                      | Gypsum, SSP
+  Zinc (Zn)         | 5 kg (if deficient)           | Zinc Sulphate
+
+  NITROGEN APPLICATION TIPS:
+  - Do not apply all nitrogen at once. Split it into 2–3 doses.
+  - Apply 1/3 at planting, 1/3 at squaring (flower bud stage), and 1/3 at
+    boll development.
+  - This reduces wastage and gives a steady supply to the plant.
+
+  PHOSPHORUS AND POTASSIUM:
+  - Apply the full dose at or before planting as a basal dose.
+  - Incorporate into the soil rather than leaving on the surface.
+
+MICRONUTRIENT DEFICIENCY SIGNS IN COTTON:
+
+  Deficiency      | Visible Symptom
+  --------------- | --------------------------------------------------
+  Zinc (Zn)       | Young leaves small, bronze, and distorted
+  Boron (B)       | Terminal buds die, bolls rough and deformed
+  Iron (Fe)       | Young leaves turn pale yellow between green veins
+  Magnesium (Mg)  | Older leaves turn yellow, veins stay green
+  Sulphur (S)     | Young leaves yellow, plant growth slows
+
+  If you see these signs, get a soil or leaf test done and apply the specific
+  micronutrient as recommended. Do not guess — applying the wrong nutrient wastes
+  money and can make things worse.
+
+================================================================================
+SECTION 5: ORGANIC MATTER MANAGEMENT
+================================================================================
+
+Organic matter is the life force of healthy soil. It comes from decomposed plant
+and animal material — compost, farmyard manure, crop residues, and green manures.
+Organic matter feeds soil microorganisms, improves soil structure, retains
+moisture, and slowly releases nutrients to your cotton crop.
+
+WHY ORGANIC MATTER IS CRITICAL:
+  - Improves soil texture — makes clay soils less sticky and sandy soils
+    less loose.
+  - Increases water holding capacity — reduces irrigation needs.
+  - Feeds billions of beneficial soil microbes that release nutrients for the plant.
+  - Buffers soil pH changes.
+  - Reduces the amount of chemical fertilizer needed over time.
+
+HOW TO ADD ORGANIC MATTER:
+
+  ► FARMYARD MANURE (FYM):
+    Apply 4–6 tonnes of well-composted farmyard manure per acre, 3–4 weeks
+    before planting. Incorporate into the soil by ploughing.
+    FYM improves soil structure and provides slow-release nutrients.
+
+  ► VERMICOMPOST:
+    Apply 1–2 tonnes of vermicompost per acre as a basal dose.
+    Vermicompost is richer in nutrients than regular FYM and also introduces
+    beneficial microorganisms into the soil.
+
+  ► GREEN MANURING:
+    Grow a fast-growing green manure crop like Dhaincha (Sesbania bispinosa)
+    or Sun Hemp (Crotalaria juncea) before cotton.
+    When the crop is 45–60 days old, plough it into the soil.
+    This adds fresh organic matter and nitrogen directly to the soil —
+    completely free and natural.
+    Green manuring can substitute for 20–30 kg/acre of urea.
+
+  ► CROP RESIDUE INCORPORATION:
+    Instead of burning cotton stalks after harvest, chop them and plough
+    them into the soil. They slowly decompose and add organic matter.
+    Stalk burning destroys organic matter, kills soil organisms, and releases
+    air pollution. Avoid burning whenever possible.
+
+  ► COMPOST:
+    Make your own compost from kitchen waste, dry leaves, weeds, and animal
+    dung. A compost pit takes 60–90 days to produce ready compost.
+    Apply 2–3 tonnes per acre before planting.
+
+TARGET ORGANIC CARBON LEVEL:
+  Healthy cotton soil should have at least 0.5–0.75% organic carbon content.
+  Many Indian cotton soils are below 0.5% due to years of chemical farming.
+  Building organic carbon is a long-term process — be patient and consistent.
+
+================================================================================
+SECTION 6: SOIL MOISTURE MANAGEMENT
+================================================================================
+
+Cotton needs adequate and steady moisture — but not too much, not too little.
+Managing soil moisture correctly protects the crop during dry spells, reduces
+waterlogging stress, and reduces your water and irrigation costs.
+
+CRITICAL STAGES FOR MOISTURE:
+
+  Growth Stage           | Moisture Importance
+  ---------------------- | ---------------------------------------------------
+  Germination (0–10 days)| Adequate moisture for uniform germination
+  Squaring (50–70 days)  | Moisture stress causes flower bud drop
+  Flowering (70–90 days) | Most critical — stress causes flower and boll drop
+  Boll development       | Steady moisture for fiber development
+  Boll opening           | Reduce moisture to avoid boll rot and disease
+
+IRRIGATION TIPS:
+  - Irrigate based on soil moisture and crop stage, not a fixed calendar.
+  - Use the "finger test": push your finger 5 cm into the soil. If it feels
+    dry, it is time to irrigate. If moist, wait another 2–3 days.
+  - Flood irrigation wastes water and can cause waterlogging. Where possible,
+    use:
+    - Furrow irrigation: water flows between plant rows, not directly on plants.
+    - Drip irrigation: delivers water directly to the root zone. Saves 40–60%
+      water compared to flood irrigation and reduces soil erosion and disease.
+
+MULCHING:
+  - Cover the soil between cotton rows with dry straw, sugarcane bagasse, or
+    dry leaves after planting.
+  - A 5–8 cm layer of mulch reduces water evaporation from the soil by up to
+    50%, keeps soil temperature stable, and suppresses weed growth.
+  - Mulch also slowly decomposes and adds organic matter to the soil.
+
+AVOIDING WATERLOGGING:
+  - Create drainage channels along field borders before the monsoon season.
+  - Raised bed planting (planting cotton on raised ridges) improves drainage
+    and reduces waterlogging risk in heavy clay soils.
+  - Never irrigate just before a heavy rain is expected.
+
+================================================================================
+SECTION 7: PREVENTING SOIL EROSION
+================================================================================
+
+Soil erosion means the top layer of your soil is being washed away or blown away.
+The top 15–20 cm of soil is the most fertile layer — it contains most of the
+organic matter and nutrients. Once this layer is gone, it takes decades to rebuild.
+Erosion is a serious, silent problem in many cotton-growing areas.
+
+CAUSES OF SOIL EROSION IN COTTON FIELDS:
+  - Heavy rain falling on bare, open soil.
+  - Overwatering with flood irrigation.
+  - Steep slopes without protective plants or barriers.
+  - Leaving the field bare after harvest with no cover crop or mulch.
+  - Burning crop residues removes the protective cover.
+
+HOW TO PREVENT EROSION:
+
+  ► COVER CROPS:
+    After cotton harvest, sow a cover crop like cowpea, moong bean, or
+    wheat. The roots hold soil in place and the canopy protects from rain.
+
+  ► CONTOUR FARMING:
+    On sloped land, plough and plant in lines across the slope (not up and
+    down). This slows down water flow and reduces soil washing.
+
+  ► BUNDS AND FIELD BORDERS:
+    Build soil bunds (raised ridges) around field borders to hold water
+    inside the field and prevent runoff from carrying soil away.
+
+  ► MULCHING:
+    As described above, mulching protects the soil surface from direct
+    raindrop impact, which is the main cause of surface erosion.
+
+  ► WINDBREAKS:
+    Plant rows of trees like Subabool, Neem, or Eucalyptus on the western
+    or northern borders of large fields to reduce wind erosion.
+
+  ► MINIMUM TILLAGE:
+    Excessive ploughing breaks down soil structure and increases erosion risk.
+    Reduce deep tillage where possible.
+
+================================================================================
+SECTION 8: CROP ROTATION FOR SOIL HEALTH
+================================================================================
+
+Crop rotation means growing different crops one after another in the same field,
+in a planned sequence, across different seasons or years. It is one of the most
+powerful and completely free tools for improving soil health.
+
+WHY CROP ROTATION IS ESSENTIAL:
+
+  ► BREAKS PEST AND DISEASE CYCLES:
+    Many cotton pests and soil-borne pathogens survive in the soil or on crop
+    residues. Growing a different crop breaks their cycle — they find no
+    suitable host and their population collapses.
+
+  ► RESTORES SOIL NUTRIENTS:
+    Legume crops (chickpea, groundnut, moong, soybean) fix nitrogen from the
+    air into the soil through their roots. After harvesting a legume crop,
+    the field is naturally enriched with 20–40 kg of nitrogen per acre —
+    completely free.
+
+  ► IMPROVES SOIL STRUCTURE:
+    Different crops have different root systems. Deep-rooted crops break up
+    hardpan layers. Fibrous-rooted crops add organic matter near the surface.
+
+  ► REDUCES WEED PRESSURE:
+    Different crops allow different weed management methods, reducing the
+    population of weeds that are hard to control in cotton.
+
+RECOMMENDED ROTATION SEQUENCES FOR COTTON FARMERS:
+
+  Sequence                        | Benefit
+  ------------------------------- | -------------------------------------------
+  Cotton → Wheat → Chickpea       | Classic rotation for central India
+  Cotton → Groundnut → Sorghum    | Good for Gujarat and Maharashtra
+  Cotton → Moong Bean → Wheat     | Short cycle with N-fixation
+  Cotton → Sunflower → Chickpea   | Diversified income + soil benefit
+  Cotton → Fallow (Green Manure)  | Intensive soil restoration approach
+
+IMPORTANT RULE: Never grow cotton in the same field for more than 2 years in a row.
+After 2 years of cotton, rotate with at least one season of a non-cotton crop.
+
+================================================================================
+SECTION 9: SUSTAINABLE SOIL PRACTICES
+================================================================================
+
+Sustainable soil management means taking care of your soil today so that it remains
+productive for your children and grandchildren. Here are the most important
+long-term practices every cotton farmer should follow:
+
+  ► REDUCE CHEMICAL DEPENDENCY GRADUALLY:
+    Slowly reduce dependence on synthetic fertilizers by increasing the use of
+    compost, FYM, green manures, and biofertilizers.
+    This does not mean stopping chemicals overnight — it means slowly replacing
+    a portion of chemical inputs with organic alternatives each year.
+
+  ► USE BIOFERTILIZERS:
+    - Rhizobium: Fixes atmospheric nitrogen. Use for legume crops in rotation.
+    - Azospirillum: Fixes nitrogen for cotton. Apply as seed treatment.
+    - Phosphate Solubilizing Bacteria (PSB): Makes locked phosphorus available
+      to plant roots. Apply as seed treatment or soil drench.
+    - These are available at KVKs and agriculture supply shops.
+      Biofertilizers are low-cost and reduce the need for chemical fertilizers.
+
+  ► MINIMIZE BURNING OF CROP RESIDUES:
+    Burning destroys organic matter, kills beneficial soil organisms, and
+    releases carbon dioxide and pollutants. Chop and incorporate residues
+    into soil instead. Over 3–5 years, this dramatically improves soil health.
+
+  ► PRACTICE MINIMUM TILLAGE WHERE POSSIBLE:
+    Deep ploughing every year destroys soil structure and kills earthworms
+    and beneficial microbes. After the initial deep ploughing to establish
+    the field, reduce tillage depth in subsequent years.
+
+  ► MAINTAIN SOIL COVER AT ALL TIMES:
+    Never leave soil bare for long periods. After harvesting cotton, sow a
+    cover crop or apply mulch immediately. Bare soil loses moisture, loses
+    nutrients, and is vulnerable to erosion.
+
+  ► PROTECT AND ENCOURAGE EARTHWORMS:
+    Earthworms are nature's soil engineers. They aerate soil, improve
+    drainage, and convert organic matter into rich vermicompost. Reducing
+    chemical pesticides and increasing organic matter encourages earthworms.
+    A healthy field should have at least 5–10 earthworms per square foot of
+    soil when dug to 15 cm depth.
+
+  ► MONITOR AND REACT:
+    Get your soil tested every 2–3 years. Compare results over time. If
+    organic carbon is increasing and pH is stable, your practices are working.
+    If the soil is degrading, change your approach before it is too late.
+
+================================================================================
+QUICK REFERENCE: SOIL HEALTH CHECKLIST FOR COTTON FARMERS
+================================================================================
+
+Before Planting:
+  □ Soil test done in last 2 years? If not, collect and send a sample.
+  □ pH between 6.0–8.0? Correct if outside this range.
+  □ Applied FYM or compost (4–6 tonnes per acre)?
+  □ Green manure crop ploughed in if possible?
+  □ Field well-drained with no waterlogging risk?
+  □ Deep plough done (once every 2–3 years)?
+
+During the Crop Season:
+  □ Irrigation managed based on soil moisture, not a fixed schedule?
+  □ Mulch applied between rows?
+  □ Fertilizers split-applied as per schedule?
+  □ Weeds removed on time (no competition for nutrients)?
+
+After Harvest:
+  □ Crop residues chopped and incorporated (not burned)?
+  □ Cover crop sown to protect soil?
+  □ Crop rotation plan ready for next season?
+  □ Farm diary updated with observations for the season?
+
+================================================================================
+END OF KRUSHIHANDHU COTTON SOIL MANAGEMENT GUIDE
+================================================================================
+
+DOCUMENT SUMMARY
+----------------
+This guide covers soil management for cotton farming across 9 sections:
+1. Why soil health is the foundation of cotton farming
+2. Ideal soil type, pH, texture, and drainage for cotton
+3. How to collect samples and use soil testing
+4. Balanced fertilizer use and micronutrient management
+5. Compost, FYM, green manuring, and organic matter building
+6. Irrigation, mulching, and waterlogging prevention
+7. Erosion prevention — cover crops, bunds, contour farming
+8. Crop rotation sequences and their benefits
+9. Long-term sustainable practices — biofertilizers, minimum tillage, earthworms
+
+PREPARED FOR: KrushiBandhu AI Farming Assistant
+INTENDED USE: RAG Knowledge Base for Soil Health Advisory
+LANGUAGE: Simple English (Ready for translation to Gujarati and Hindi)
+VERSION: 1.0
+================================================================================

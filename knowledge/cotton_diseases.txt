@@ -1,0 +1,698 @@
+================================================================================
+DISEASE 1: APHIDS
+================================================================================
+
+1. OVERVIEW
+-----------
+Aphids are tiny soft-bodied insects that attack cotton plants by sucking the juice
+(sap) out of the plant. They are one of the most common and damaging pests in
+cotton farming. These insects are very small – about 1 to 3 mm in size – and are
+usually green, yellow, or black in color. They reproduce very quickly, which means
+a small group of aphids can become thousands within just a few days. Aphids damage
+the plant directly by feeding on it and also indirectly by spreading plant viruses
+from one plant to another. Their feeding weakens the plant, reduces growth, and can
+cause serious loss in cotton yield if not controlled on time.
+
+2. SYMPTOMS
+-----------
+- Leaves curl downward or become wrinkled and twisted.
+- Small clusters of green, yellow, or black insects visible on the underside of
+  leaves, on young shoots, and on buds.
+- Sticky, shiny liquid called "honeydew" is found on leaves. This is left behind by
+  aphids after feeding.
+- A black sooty mold (fungus) grows on the honeydew, making leaves look dirty and
+  black.
+- Leaves turn yellow and may drop early.
+- Young plants show stunted growth (plants look shorter and weaker than normal).
+- In heavy attack, flower buds and bolls may fall off the plant.
+- Ants are often seen moving around aphid colonies because ants feed on honeydew.
+
+3. CAUSES
+---------
+- Aphids are insects (pests) that come from outside the field or survive in nearby
+  weeds and plants.
+- They spread from plant to plant by flying or by wind.
+- They also travel to new fields on farming tools, clothing, and even on ants.
+- Aphids can spread cotton leaf curl virus (CLCuV), which causes even more damage.
+
+4. FAVORABLE CONDITIONS
+-----------------------
+- Aphids multiply very fast in warm and dry weather (temperature between 20°C
+  to 30°C).
+- Mild winters and early warm summers increase aphid populations.
+- Excessive use of nitrogen fertilizers makes plants grow soft and tender, which
+  attracts more aphids.
+- Lack of natural enemies (like ladybird beetles) in the field allows aphids to
+  increase unchecked.
+- Monoculture farming (growing only cotton year after year) increases aphid risk.
+
+5. PREVENTION
+-------------
+- Regularly inspect your field, especially the underside of leaves, every 3–4 days.
+- Avoid using too much nitrogen fertilizer, as it promotes soft leafy growth that
+  attracts aphids.
+- Plant cotton on time (avoid very late sowing) to reduce aphid pressure.
+- Maintain proper spacing between plants for better airflow.
+- Remove and destroy weeds in and around the field, as weeds host aphids.
+- Use resistant cotton varieties where available in your region.
+- Grow border crops like maize or sorghum around the cotton field to attract
+  beneficial insects.
+
+6. TREATMENT / CONTROL
+-----------------------
+CULTURAL PRACTICES:
+- Remove and destroy heavily infested leaves and shoots.
+- Spray a strong jet of water to wash aphids off plants in small fields.
+- Deep plough the field after harvest to destroy eggs and pupae in the soil.
+
+BIOLOGICAL CONTROL:
+- Encourage natural predators: Ladybird beetles (ladybugs), lacewings, and
+  parasitic wasps feed on aphids and keep their numbers low.
+- Release Chrysoperla carnea (green lacewing) eggs or larvae in the field
+  (available from agricultural offices or vendors).
+- Avoid broad-spectrum pesticides that kill beneficial insects.
+
+RECOMMENDED PESTICIDES (use only when necessary):
+- Imidacloprid 17.8% SL: Spray 100–125 ml per acre, mixed in water.
+- Thiamethoxam 25% WG: Spray 40 grams per acre.
+- Dimethoate 30% EC: Spray 200–300 ml per acre.
+- Neem-based pesticide (Azadirachtin 0.03% EC): Spray 400–600 ml per acre.
+  (Neem spray is safe, eco-friendly, and does not harm beneficial insects.)
+NOTE: Always follow the label instructions on pesticide packets. Wear gloves and a
+mask when spraying. Do not spray near water sources or ponds.
+
+7. INTEGRATED PEST MANAGEMENT (IPM)
+-------------------------------------
+- Scout the field every week. Start treatment only when you see more than 10–15
+  aphids per leaf or per plant (called the Economic Threshold Level or ETL).
+- First try neem-based or biological sprays before using chemical pesticides.
+- Alternate between different pesticide groups to prevent aphids from becoming
+  resistant to chemicals.
+- Set up yellow sticky traps in the field to monitor and catch flying aphids.
+  (Use 10–15 traps per acre.)
+- Grow flowering plants like marigold at the border of the field to attract
+  beneficial insects that eat aphids.
+
+8. FARMER TIPS
+--------------
+- Walk through your field early in the morning when it is cool – aphids are easier
+  to spot on the underside of leaves at that time.
+- Do not wait until the attack is severe. Start treatment early.
+- If you see ants climbing your cotton plants, check for aphids – ants and aphids
+  are often found together.
+- Neem oil spray (5 ml neem oil + 1 liter water + a few drops of soap) is a cheap
+  and effective home remedy for mild aphid attacks.
+- Keep records of when aphids appeared in previous years – this helps you be
+  prepared next season.
+
+================================================================================
+DISEASE 2: ARMY WORM
+================================================================================
+
+1. OVERVIEW
+-----------
+Army worm is the name given to the caterpillar (larva) of certain moth species,
+most commonly the Spodoptera species. They are called "army worms" because they
+move through fields in large groups, like an army, eating everything in their path.
+In cotton, the most common types are Spodoptera exigua (beet army worm) and
+Spodoptera frugiperda (fall army worm). The adult is a moth that lays eggs on the
+cotton plant. After hatching, the caterpillars begin feeding heavily on leaves, buds,
+and bolls. Army worm attacks can destroy large portions of a cotton crop in a very
+short time if not controlled quickly. They are active mostly at night and hide
+during the day under leaves or in the soil near the base of the plant.
+
+2. SYMPTOMS
+-----------
+- Irregular holes or ragged edges on leaves where caterpillars have been feeding.
+- In young plants, complete stripping of leaves may occur (plant looks bare).
+- "Window paning" – young caterpillars eat only the soft green part of the leaf,
+  leaving a thin transparent skin that looks like a window.
+- Presence of caterpillars (green, brown, or striped) on leaves, on soil near the
+  base of plants, or inside bolls.
+- Green or black pellet-shaped droppings (frass) of caterpillars seen on leaves and
+  on the ground below the plant.
+- Flowers and small bolls may be chewed or damaged.
+- Large caterpillars may enter cotton bolls and feed on the fiber inside.
+- Egg masses (tiny round eggs in clusters, sometimes covered with hairs) on the
+  upper surface of leaves.
+
+3. CAUSES
+---------
+- Army worm damage is caused by the larva (caterpillar) stage of moths belonging
+  to the Spodoptera group.
+- The adult moth lays eggs in groups on cotton leaves at night.
+- After 2–3 days, eggs hatch and the caterpillars start feeding.
+- Caterpillars go through 5–6 stages (instars) over 2–3 weeks before becoming pupae
+  and then adult moths.
+- Adult moths fly to new fields and continue the cycle.
+
+4. FAVORABLE CONDITIONS
+-----------------------
+- Warm and humid weather (temperature 25°C–35°C, humidity above 60%) is ideal for
+  army worm multiplication.
+- Heavy rains followed by dry, warm periods encourage outbreaks.
+- Dense plant canopy (overcrowded plants) provides shelter for caterpillars.
+- Late-planted cotton is often at higher risk.
+- Fields near forests, grasslands, or fallows are more likely to be invaded.
+- High nitrogen use promotes leafy growth that attracts egg-laying moths.
+
+5. PREVENTION
+-------------
+- Sow cotton at the recommended time for your region to avoid peak moth activity.
+- Practice crop rotation – do not plant cotton in the same field every year.
+- Deep plough the field before and after the season to expose pupae in the soil to
+  sunlight and birds.
+- Maintain proper plant spacing to reduce canopy density.
+- Keep field borders free of weeds that can harbor moths.
+- Destroy crop residues after harvest.
+
+6. TREATMENT / CONTROL
+-----------------------
+CULTURAL PRACTICES:
+- Hand-pick caterpillars and egg masses from small fields and destroy them by
+  drowning in kerosene water or burying.
+- Use light traps or pheromone traps to catch adult moths before they lay eggs.
+- Till the soil between rows to expose and kill pupae.
+
+BIOLOGICAL CONTROL:
+- Spray Bacillus thuringiensis (Bt) – a natural bacterial pesticide that kills
+  caterpillars without harming people, animals, or beneficial insects.
+  Use Bt at 500 grams per acre mixed in water. Best results on young caterpillars.
+- Nuclear Polyhedrosis Virus (NPV) – a virus spray specifically effective against
+  Spodoptera species. Available from some agricultural departments.
+- Encourage natural predators: parasitic wasps (Trichogramma), ground beetles,
+  birds, and spiders help control army worm populations.
+
+RECOMMENDED PESTICIDES:
+- Chlorpyrifos 20% EC: Spray 400–500 ml per acre.
+- Emamectin Benzoate 5% SG: Spray 80–100 grams per acre.
+- Spinosad 45% SC: Spray 60–75 ml per acre (also eco-friendly, less harmful to
+  beneficial insects).
+- Lambda-cyhalothrin 5% EC: Spray 200 ml per acre.
+NOTE: Spray in the evening or early morning when caterpillars are active. Target
+the underside of leaves for better results.
+
+7. INTEGRATED PEST MANAGEMENT (IPM)
+-------------------------------------
+- Install pheromone traps (Spodoptera-specific lures) at the rate of 5 traps per
+  acre to monitor and trap male moths.
+- Scout the field twice a week, especially in the early morning.
+- Start chemical treatment only when you find more than 5 caterpillars per plant.
+- Use Bt sprays first, then shift to chemical pesticides only if the attack is
+  heavy.
+- Attract birds (like mynahs and sparrows) by keeping perches in the field – birds
+  eat caterpillars.
+
+8. FARMER TIPS
+--------------
+- Check your field every evening, as army worms are most active after sunset.
+- Look for the zig-zag pattern of feeding damage on leaves – this is a classic
+  sign of army worm.
+- Young caterpillars (first and second stage) are easiest to kill with sprays.
+  Do not wait until they become large.
+- If you see moths flying around light sources at night, expect egg-laying in your
+  field within 2–3 days. Start monitoring immediately.
+- Share information with your neighboring farmers – army worms move from field to
+  field, so coordinated spraying gives better results.
+
+================================================================================
+DISEASE 3: BACTERIAL BLIGHT
+================================================================================
+
+1. OVERVIEW
+-----------
+Bacterial Blight is one of the most serious diseases of cotton caused by a
+bacterium called Xanthomonas citri subsp. malvacearum (also known as Xanthomonas
+axonopodis pv. malvacearum). This disease is also called "Angular Leaf Spot" or
+"Cotton Bacteriosis." It can infect the plant at any stage of growth – from
+seedling to mature plant. The bacteria enter the plant through small openings
+(stomata), wounds, or cuts on the plant. Once inside, they destroy plant cells and
+block the vessels that carry water and nutrients. Bacterial blight can reduce cotton
+yield by 20–60% in a bad year and also reduces the quality of cotton fiber. It
+spreads very fast in wet and warm weather conditions.
+
+2. SYMPTOMS
+-----------
+ON LEAVES:
+- Water-soaked (dark, wet-looking) small spots first appear on leaves.
+- These spots dry out and turn brown with a yellow border around them.
+- The spots have angular (square or irregular) edges because they are limited by
+  the veins of the leaf – this is why it is called "Angular Leaf Spot."
+- Severely infected leaves turn yellow and fall off the plant.
+- Black streaks may appear along the leaf veins.
+
+ON STEMS AND BRANCHES:
+- Dark brown to black water-soaked streaks appear on stems and young branches.
+- Infected branches may die and turn black (this is called "black arm").
+- The stem may crack and dry out at infected areas.
+
+ON BOLLS:
+- Small, circular, water-soaked spots appear on the surface of bolls.
+- These spots enlarge and turn dark brown or black.
+- Infected bolls may not open properly, and the lint (fiber) inside can be stained
+  and damaged.
+
+ON SEEDLINGS:
+- Young seedlings show "damping off" – they fall over and die near the soil surface.
+- Cotyledons (seed leaves) develop angular, dark spots.
+
+3. CAUSES
+---------
+- The disease is caused by the bacterium Xanthomonas citri subsp. malvacearum.
+- The bacteria survive in infected crop residues, seeds, and soil between seasons.
+- They spread through rain, wind, irrigation water, insects, farm tools, and hands.
+- Infected seeds are the primary way the disease enters a new field.
+
+4. FAVORABLE CONDITIONS
+-----------------------
+- Wet and humid weather (humidity above 70%) with frequent rains is ideal for
+  bacterial blight spread.
+- Warm temperature between 25°C to 35°C speeds up bacterial growth.
+- Heavy rains, strong winds, and hailstorms create wounds on plants, which allow
+  bacteria to enter easily.
+- Dense planting and poor air circulation create moisture that helps bacteria spread.
+- Late rains during the boll formation stage cause severe boll infection.
+
+5. PREVENTION
+-------------
+- Always use certified, disease-free cotton seeds.
+- Use resistant cotton varieties recommended for your area.
+- Treat seeds with hot water (52°C for 30 minutes) before planting to kill bacteria
+  on the seed surface.
+- Practice crop rotation – avoid growing cotton in the same field for 2 years in a
+  row.
+- Maintain proper plant spacing to allow good air circulation.
+- Do not use irrigation water from fields where bacterial blight has been seen.
+- Remove and destroy infected plant parts immediately.
+- Disinfect farm tools with bleach solution or wash them before moving between
+  fields.
+
+6. TREATMENT / CONTROL
+-----------------------
+CULTURAL PRACTICES:
+- Remove and burn infected leaves, branches, and bolls as soon as symptoms are seen.
+- Avoid working in the field when plants are wet from rain or dew, as this helps
+  spread the bacteria.
+- Drain waterlogged areas in the field quickly after heavy rains.
+
+BIOLOGICAL CONTROL:
+- Spray with Trichoderma viride or Pseudomonas fluorescens (bio-fungicide) mixed in
+  water to improve plant immunity.
+
+RECOMMENDED TREATMENTS:
+- Copper-based bactericides:
+  Copper Oxychloride 50% WP: Spray 600–800 grams per acre mixed in water.
+  Bordeaux Mixture (1%): Prepare by mixing 1 kg copper sulfate + 1 kg lime in
+  100 liters of water. Spray on plants.
+- Streptomycin Sulfate 90% + Tetracycline 10% (combination): Spray 15–20 grams
+  per acre. (Use only when advised by an agricultural officer – do not overuse
+  antibiotics.)
+- Seed treatment: Soak seeds in Streptocycline (100 ppm) solution for 30 minutes
+  before planting.
+
+7. INTEGRATED PEST MANAGEMENT (IPM)
+-------------------------------------
+- Scout the field every week from seedling stage onwards.
+- Use disease forecasting: if heavy rain is expected, apply a preventive copper
+  spray 2–3 days before or immediately after rain.
+- Destroy crop residues after harvest by deep ploughing or burning, as this kills
+  bacteria in the soil and on plant material.
+- Grow a non-host crop (like wheat, sorghum, or chickpea) after cotton to break the
+  disease cycle.
+
+8. FARMER TIPS
+--------------
+- Never buy seeds from unknown sources. Always buy certified seeds with a seal
+  of quality.
+- After handling infected plants, wash your hands and tools before touching healthy
+  plants.
+- If you had bacterial blight last season, do not use saved seeds from those plants.
+- Copper spray is your best protection. Apply it as a preventive measure before
+  the rainy season.
+- If you see dark streaks on stems (black arm), act immediately – do not wait.
+  Remove infected branches and spray copper bactericide the same day.
+
+================================================================================
+DISEASE 4: POWDERY MILDEW
+================================================================================
+
+1. OVERVIEW
+-----------
+Powdery Mildew is a fungal disease of cotton caused by the fungus Leveillula taurica
+(also sometimes associated with other fungal species). It is easy to identify
+because it creates a white or grey powdery coating on plant surfaces. Unlike most
+fungal diseases that need wet and rainy conditions, Powdery Mildew actually thrives
+in dry and warm conditions with moderate humidity. This makes it a common problem
+in late-season cotton in many regions of India. The disease mainly affects leaves
+but can also infect stems, buds, and young bolls. It reduces photosynthesis (the
+plant's ability to make food from sunlight), which weakens the plant and reduces
+yield and fiber quality.
+
+2. SYMPTOMS
+-----------
+ON LEAVES:
+- White to grey powdery patches (like someone sprinkled flour) appear on the upper
+  and lower surface of leaves.
+- The powdery patches start as small spots and expand to cover the entire leaf
+  surface.
+- Infected leaves may turn yellow and then brown before falling off the plant.
+- In some cases, the upper surface shows yellow patches while the white powder is
+  more visible on the underside of the leaf.
+
+ON STEMS AND SHOOTS:
+- White powdery coating can be seen on young, tender stems and growing tips.
+- Infected stems may become stunted and twisted.
+
+ON FLOWERS AND BOLLS:
+- In heavy infections, flowers and young bolls may show powdery coating.
+- Infected bolls may not open fully and fiber quality is reduced.
+
+GENERAL:
+- In severe cases, the entire plant looks greyish-white from a distance.
+- Plant growth slows down noticeably.
+
+3. CAUSES
+---------
+- Powdery Mildew is caused by the fungus Leveillula taurica.
+- The fungus produces millions of tiny spores (seeds) that spread through the air
+  with the wind.
+- The spores land on plant surfaces and grow into the plant.
+- The fungus lives on the outer surface of the plant and sends feeding tubes inside
+  the leaf.
+- It survives between seasons on infected plant debris and on other host plants
+  such as tomato, brinjal, and various weeds.
+
+4. FAVORABLE CONDITIONS
+-----------------------
+- Unlike most fungi, Powdery Mildew spreads best in DRY conditions with moderate
+  humidity (40–70%).
+- Temperature between 25°C to 30°C is most favorable.
+- Cool nights followed by warm, dry days help the fungus grow.
+- Dense planting with poor air circulation increases infection.
+- Powdery mildew is most common in the late season (October–November in many Indian
+  growing zones).
+- Shaded areas in the field often show more infection.
+
+5. PREVENTION
+-------------
+- Use resistant cotton varieties recommended for your region.
+- Avoid very dense planting – maintain proper row and plant spacing for good airflow.
+- Remove and destroy infected plant parts promptly.
+- Avoid excessive irrigation, especially near the end of the growing season.
+- Clean up all crop residues and weeds after harvest to remove the fungus's resting
+  sites.
+- Practice crop rotation with non-host crops.
+- Avoid planting cotton near tomato, brinjal, or pepper fields, as these can be
+  sources of the fungus.
+
+6. TREATMENT / CONTROL
+-----------------------
+CULTURAL PRACTICES:
+- Prune and remove heavily infected leaves and shoots.
+- Ensure proper spacing between plants.
+- Avoid overhead irrigation in the evening – wet leaves at night encourage many
+  fungal diseases.
+
+BIOLOGICAL CONTROL:
+- Spray with Trichoderma harzianum (bio-fungicide): 2.5 kg per acre mixed in water.
+- Neem oil spray (0.5–1%): 5 ml neem oil per liter of water with a few drops of
+  soap. Effective for mild to moderate infections.
+- Cow urine spray (diluted 1:10 with water) is a traditional remedy that can
+  reduce mild powdery mildew.
+
+RECOMMENDED FUNGICIDES:
+- Sulphur 80% WP (Wettable Sulphur): Spray 600–800 grams per acre. Very effective
+  and affordable for Powdery Mildew.
+- Hexaconazole 5% EC: Spray 200–300 ml per acre.
+- Myclobutanil 10% WP: Spray 100–120 grams per acre.
+- Dinocap 48% EC: Spray 200 ml per acre.
+NOTE: Start fungicide sprays at the first sign of disease. Repeat every 10–15 days
+if the disease persists.
+
+7. INTEGRATED PEST MANAGEMENT (IPM)
+-------------------------------------
+- Monitor your field from the beginning of the cotton season and pay attention to
+  late-season weather conditions.
+- Apply preventive sulphur dust or spray before the late-season dry spell begins.
+- Destroy all crop residues immediately after harvest.
+- Intercropping cotton with less susceptible crops can reduce disease spread.
+- Avoid water stress in plants – mild water stress can make plants more susceptible
+  to Powdery Mildew.
+
+8. FARMER TIPS
+--------------
+- Powdery Mildew looks like white flour on leaves. If you wipe it with your finger
+  and it comes off as powder, it is very likely Powdery Mildew.
+- Sulphur spray is the cheapest and most effective solution. Apply it early.
+- Do not let the disease spread – remove infected leaves immediately and bury or
+  burn them away from the field.
+- Check the shaded and dense areas of your field first – Powdery Mildew often
+  starts in areas with less sunlight and airflow.
+- Apply sulphur in the morning on a clear day. Do not apply sulphur spray in very
+  hot weather (above 35°C) as it can burn the leaves.
+
+================================================================================
+DISEASE 5: TARGET SPOT
+================================================================================
+
+1. OVERVIEW
+-----------
+Target Spot of cotton is a fungal disease caused by the fungus Corynespora
+cassiicola. It gets its name from the appearance of the disease spots, which have
+rings inside rings – like a shooting target or a bull's-eye. Target Spot is
+increasingly important in many cotton-growing regions and can cause significant
+yield loss by damaging leaves, causing early leaf drop, and reducing photosynthesis.
+It affects leaves at all stages of growth, but is most damaging during the boll
+formation and maturation stages. The disease can also infect bolls and stems in
+severe cases. Early and widespread defoliation (loss of leaves) is the biggest
+impact of this disease and can reduce yield by 15–40%.
+
+2. SYMPTOMS
+-----------
+ON LEAVES:
+- Small, circular to irregular brown spots appear on the leaf surface.
+- As the spots grow, they develop concentric rings (ring inside ring), creating the
+  "target" or "bull's-eye" appearance.
+- Spots may be surrounded by a yellow halo (ring of yellow tissue).
+- Multiple spots can merge together to form large brown patches.
+- Severely infected leaves turn yellow and fall off the plant prematurely
+  (early leaf drop).
+- On the underside of the leaf, the spots may appear lighter in color.
+
+ON BOLLS:
+- Small, round, brown sunken spots appear on boll surface.
+- Infected bolls may not open properly and the cotton fiber inside can be damaged
+  or stained.
+
+ON STEMS:
+- Dark brown oval lesions may appear on young stems and leaf stalks (petioles).
+- Infected stems may weaken and crack.
+
+ON BRACTS (leaf-like structures around bolls):
+- Brown lesions with target-like rings may appear on bracts, causing them to turn
+  brown and dry out.
+
+3. CAUSES
+---------
+- Target Spot is caused by the fungus Corynespora cassiicola.
+- The fungus survives on infected plant residues in the soil between seasons.
+- It spreads through spores that travel by wind, rain splash, and irrigation water.
+- The spores land on plant surfaces and germinate in wet conditions.
+- The fungus can also infect many other crops (tomato, cucumber, soybean) and weeds,
+  allowing it to survive even when cotton is not in the field.
+
+4. FAVORABLE CONDITIONS
+-----------------------
+- Hot and humid conditions (temperature 25°C–35°C, humidity above 80%) are ideal
+  for the spread of Target Spot.
+- Frequent rainfall, dew, and foggy mornings create moisture on leaves that allows
+  fungal spores to germinate.
+- The disease is most severe during the middle to late part of the cotton season
+  when the canopy is dense.
+- Dense planting and overcrowded fields trap moisture and increase infection.
+- Extended periods of cloudy weather with reduced sunlight favor the disease.
+- Fields with history of Target Spot and high levels of crop residue in the soil
+  are at higher risk.
+
+5. PREVENTION
+-------------
+- Use cotton varieties that are less susceptible to Target Spot where available.
+- Maintain proper plant spacing to improve air circulation and reduce moisture in
+  the canopy.
+- Practice crop rotation with non-host crops like wheat, sorghum, or chickpea.
+- Remove and destroy all crop residues and infected plant material after harvest.
+- Deep plough the field after harvest to bury crop residues and destroy the fungus.
+- Avoid excessive use of nitrogen fertilizer, as overly lush canopies trap moisture.
+- Avoid overhead irrigation in the evening or at night.
+
+6. TREATMENT / CONTROL
+-----------------------
+CULTURAL PRACTICES:
+- Remove and dispose of heavily infected leaves, especially from the lower part of
+  the plant where the disease usually starts.
+- Improve ventilation in the field by wider row spacing.
+- Reduce irrigation frequency during wet periods.
+
+BIOLOGICAL CONTROL:
+- Spray Trichoderma viride or Trichoderma harzianum (bio-fungicide): helps protect
+  plants when used as a preventive spray.
+- Bacillus subtilis-based products can suppress the fungus on plant surfaces.
+
+RECOMMENDED FUNGICIDES:
+- Azoxystrobin 23% SC: Spray 200 ml per acre. Very effective against Target Spot.
+- Pyraclostrobin + Boscalid: Spray as recommended on the label. Good broad-spectrum
+  coverage for fungal diseases.
+- Propiconazole 25% EC: Spray 200 ml per acre.
+- Carbendazim 50% WP: Spray 250–300 grams per acre.
+- Mancozeb 75% WP: Spray 600–800 grams per acre. Affordable and widely available.
+NOTE: Begin spraying as soon as you notice first symptoms. Repeat spray after
+14 days if conditions remain wet and humid.
+
+7. INTEGRATED PEST MANAGEMENT (IPM)
+-------------------------------------
+- Scout the field every 7 days during the rainy and humid periods.
+- Focus on the lower leaves first – Target Spot usually starts at the bottom of the
+  plant and moves upward.
+- Alternate between different types of fungicides to prevent the fungus from
+  developing resistance.
+- Apply preventive fungicide sprays during extended wet and cloudy weather, even
+  before symptoms appear.
+- Use narrow-spectrum biological sprays as a preventive measure during early season.
+- Remove all volunteer cotton plants (cotton that has grown from last year's seeds)
+  as they can serve as a source of the fungus.
+
+8. FARMER TIPS
+--------------
+- Look for the "target" or "ring within ring" pattern on leaves – this is the most
+  reliable way to identify Target Spot quickly.
+- Start looking at the bottom leaves of the plant first. The disease moves upward.
+- Do not delay treatment – once the lower canopy starts dropping leaves, yield loss
+  has already begun.
+- If the disease is in the field, avoid moving through it during wet weather, as
+  you can carry spores on your clothing and spread the disease.
+- After a week of rain, always check your field immediately for early signs of
+  Target Spot.
+- Use Mancozeb spray as a low-cost preventive treatment at the start of the wet
+  season.
+
+================================================================================
+DISEASE 6: HEALTHY COTTON PLANT – REFERENCE GUIDE FOR FARMERS
+================================================================================
+
+1. OVERVIEW
+-----------
+This section describes what a healthy cotton plant looks like at different stages
+of growth. Farmers should use this as a reference to compare with their actual
+plants in the field. Knowing what a healthy plant looks like helps you to quickly
+spot problems before they become serious.
+
+2. APPEARANCE OF A HEALTHY PLANT
+----------------------------------
+SEEDLING STAGE (Days 1–21 after planting):
+- Seedlings emerge evenly and stand upright.
+- First leaves (cotyledons) are smooth, round, and bright green.
+- Stem is firm, green, and upright – not bent or rotting at the base.
+- Roots are white, firm, and well-branched when pulled out.
+- Plants grow at a steady pace – about 2–4 cm per week.
+
+VEGETATIVE STAGE (Weeks 3–8):
+- Leaves are large, deep green, 3-lobed or 5-lobed, with a smooth or slightly
+  rough surface.
+- No spots, holes, yellow patches, or powdery coating on leaves.
+- Stem is green, strong, and upright. No cracks or black streaks.
+- Plant grows vigorously with new leaves appearing regularly.
+- No curling, twisting, or cupping of leaves.
+
+FLOWERING STAGE (Weeks 8–12):
+- Flower buds (squares) are plump, firm, and pyramid-shaped.
+- Flowers are creamy white on the first day and turn pink/red by the second day
+  (this is completely normal).
+- Petals fall naturally within 2–3 days after opening.
+- Flowers are evenly distributed along branches.
+- Leaves near flowers are large and healthy green.
+
+BOLL DEVELOPMENT STAGE (Weeks 12–20):
+- Bolls (fruit) are green, firm, and oval-shaped.
+- Boll surface is smooth and free from spots, sunken areas, or cracks.
+- Bolls develop evenly on the plant from the bottom to the top.
+- Plant leaves remain green and attached to the plant.
+
+BOLL OPENING AND MATURATION (Weeks 18–25 and beyond):
+- Mature bolls split open naturally into 3–5 sections.
+- Fiber (lint) inside is bright white, fluffy, and clean.
+- Seed inside the fiber is dark and fully formed.
+- Leaves gradually turn yellow and drop naturally as the plant matures.
+  (This is normal at the very end of the season.)
+
+3. HEALTHY LEAF CHARACTERISTICS
+---------------------------------
+- Color: Deep green (not pale yellow, not dark blackish).
+- Surface: Smooth or slightly hairy, no powdery coating.
+- Shape: Flat and fully expanded, not curled, rolled, or cupped.
+- Edges: Normal leaf margins, not burnt or brown at edges.
+- Underside: No insects, no white flies, no sticky honeydew.
+- Size: Leaves grow steadily larger as the plant matures.
+
+4. HEALTHY STEM AND ROOT CHARACTERISTICS
+------------------------------------------
+- Stem: Green to light brown at the base, firm and straight.
+- No dark streaks, oozing liquid, or cracks on the stem.
+- Branches grow at regular intervals along the main stem.
+- Roots: White, firm, and branched. No rotting or dark coloration.
+- Taproot goes deep into the soil.
+
+5. HEALTHY PLANT GROWTH INDICATORS
+-------------------------------------
+- Plant height is appropriate for the variety and growth stage.
+- Regular appearance of new leaves and branches.
+- Buds, flowers, and bolls are present in good numbers.
+- No unusual dropping of flower buds, flowers, or young bolls.
+  (Note: Some early bud drop is normal, but excessive drop is a warning sign.)
+- Color remains green throughout the vegetative and early boll stage.
+
+6. SIGNS THAT INDICATE A PROBLEM (Early Warning Signs)
+---------------------------------------------------------
+If you see any of the following on your cotton plants, investigate immediately:
+- Yellowing of leaves, especially younger leaves at the top.
+- Leaves curling upward or downward.
+- White powdery coating on leaves.
+- Brown spots of any shape or size on leaves.
+- Sticky, shiny substance on leaves (honeydew from insects).
+- Tiny insects visible under the leaves or on growing tips.
+- Flower buds dropping before they open.
+- Bolls turning black or developing soft spots.
+- Foul smell from the plant or soil near the plant.
+- Plants wilting even when the soil has enough water.
+
+7. FARMER TIPS FOR MAINTAINING HEALTHY PLANTS
+-----------------------------------------------
+- Walk through your field at least twice a week and observe plants carefully.
+- Take a magnifying lens to check the underside of leaves for insects and mites.
+- Compare a suspected sick plant with a healthy plant nearby.
+- Take a photo of any unusual symptom and consult your agricultural extension
+  officer or KrushiBandhu AI assistant.
+- A healthy plant starts with healthy seeds. Always use certified, treated seeds.
+- Follow your crop calendar for fertilizer, irrigation, and pest management
+  activities – prevention is better than cure.
+- Keep notes each year about what problems you faced and when – this helps you
+  prepare better for the next season.
+
+================================================================================
+END OF KRUSHIHANDHU COTTON DISEASES KNOWLEDGE BASE DOCUMENT
+================================================================================
+
+DOCUMENT SUMMARY
+----------------
+This knowledge base covers:
+1. Aphids              – Sucking pest causing leaf curl and honeydew.
+2. Army Worm           – Caterpillar pest causing defoliation and boll damage.
+3. Bacterial Blight    – Bacterial disease causing angular leaf spots and black arm.
+4. Powdery Mildew      – Fungal disease causing white powder on leaves.
+5. Target Spot         – Fungal disease causing bull's-eye ring spots on leaves.
+6. Healthy Plant       – Reference guide for a normal, disease-free cotton plant.
+
+PREPARED FOR: KrushiBandhu AI Farming Assistant
+INTENDED USE: RAG Knowledge Base for Disease Diagnosis and Advisory
+LANGUAGE: Simple English (Ready for translation to Gujarati and Hindi)
+VERSION: 1.0
+================================================================================

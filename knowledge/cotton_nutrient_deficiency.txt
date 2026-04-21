@@ -1,0 +1,605 @@
+================================================================================
+         KRUSHHIBANDHU – NUTRIENT DEFICIENCY GUIDE FOR COTTON FARMERS
+              How to Identify and Fix Nutrient Problems in Cotton
+================================================================================
+
+Purpose  : RAG Knowledge Base for KrushiBandhu AI Farming Assistant
+Language : Simple English (suitable for translation to Gujarati and Hindi)
+Audience : Cotton Farmers, Extension Workers, Agri-input Dealers
+================================================================================
+
+INTRODUCTION
+------------
+A healthy cotton plant needs a balanced supply of nutrients at every stage
+of growth. When any nutrient is missing or insufficient in the soil, the
+plant shows visible warning signs — on leaves, stems, bolls, or in its
+overall growth pattern. These warning signs are the plant's way of telling
+the farmer that something is wrong.
+
+Recognizing nutrient deficiency symptoms early and correcting them quickly
+can prevent serious yield loss. This guide explains the six most common
+nutrient deficiencies in cotton — what they look like, why they happen,
+and how to fix them.
+
+GOLDEN RULE FOR DIAGNOSIS:
+- Deficiency in OLDER (lower) leaves first = Mobile nutrients
+  (Nitrogen, Phosphorus, Potassium, Magnesium).
+  The plant moves these nutrients from old leaves to new growing parts.
+- Deficiency in YOUNGER (upper/new) leaves first = Immobile nutrients
+  (Zinc, Iron, Boron, Calcium).
+  The plant cannot move these from old leaves to new growth.
+This rule helps you identify the deficient nutrient faster.
+
+================================================================================
+NUTRIENT 1: NITROGEN (N)
+================================================================================
+
+1. ROLE OF NITROGEN
+--------------------
+Nitrogen is the most important nutrient for cotton growth. It is the
+building block of proteins, enzymes, and chlorophyll — the green pigment
+that allows the plant to make food from sunlight. Nitrogen drives all
+vegetative growth: leaves, stems, and branches. It directly determines
+how many fruiting branches the plant develops and how many bolls it can
+support. Without adequate nitrogen, a cotton plant stays small, pale,
+and produces far fewer bolls than its potential.
+
+2. DEFICIENCY SYMPTOMS
+-----------------------
+- FIRST SIGN: Yellowing (chlorosis) starts on the OLDER, LOWER leaves
+  first. This is because nitrogen is a mobile nutrient — the plant
+  pulls nitrogen from old leaves and sends it to new growing parts.
+- Leaves turn pale green first, then bright yellow, then light brown
+  and dry from the tip and margins inward.
+- Veins also turn yellow (entire leaf is uniformly pale — no green
+  patches or patterns).
+- The whole plant looks light green, stunted, and thin compared to
+  a healthy plant.
+- Stem is thin and weak. Fewer branches develop.
+- Fewer squares (flower buds) form, and existing squares may shed.
+- In severe cases, lower leaves dry up completely and fall off.
+- Overall: The plant looks washed out, pale, and low-energy.
+
+3. CAUSES
+----------
+- Soil naturally low in nitrogen (sandy soils, light-colored soils).
+- Not applying enough nitrogen fertilizer or skipping a top dressing.
+- Applying all nitrogen at sowing only — most of it leaches away before
+  the plant can use it.
+- Heavy or continuous rainfall that washes nitrogen (leaching) out of
+  the root zone.
+- Waterlogged soil where nitrogen converts to gas and escapes
+  (denitrification).
+- Soil organic matter very low — less natural nitrogen release.
+- Previous crop was also a heavy nitrogen feeder (e.g., maize, sugarcane)
+  and left the soil depleted.
+
+4. CORRECTION METHODS
+----------------------
+IMMEDIATE (SOIL APPLICATION):
+- Apply Urea @ 15–20 kg per acre as a top dressing immediately.
+- Broadcast between the rows and irrigate lightly within 24 hours to
+  dissolve urea into the root zone.
+- Do not place urea directly against the stem — it can burn roots.
+
+QUICK EMERGENCY (FOLIAR SPRAY):
+- Spray 2% Urea solution on leaves (dissolve 20 g of urea in 1 litre
+  of water) — for rapid recovery within 5–7 days.
+- Spray in the early morning or late evening. Avoid spraying in hot
+  afternoon sun — leaf burn can occur.
+- Repeat foliar spray after 10 days if yellowing persists.
+
+PREVENTIVE (FOR NEXT SEASON):
+- Follow the 3-split nitrogen schedule: 1/3 at sowing, 1/3 at 30 DAS,
+  1/3 at 60 DAS.
+- Add FYM or compost (4–5 tonnes per acre) to improve soil nitrogen
+  levels naturally over time.
+- Use biofertilizer Azospirillum at sowing to boost nitrogen availability.
+
+5. FARMER TIPS
+---------------
+- "Peele patte = Naitrajan ki kami" — Yellow leaves starting from the
+  bottom always indicate nitrogen shortage in cotton.
+- Never apply all urea at sowing. Splitting saves money and gives better
+  results — 30–40% more efficient nitrogen use.
+- Always irrigate the field within 24 hours of broadcasting urea. Urea
+  left on dry soil loses nitrogen as gas into the air within 2–3 days.
+- If the whole plant is uniformly pale from seedling stage onward, the
+  soil is very poor in nitrogen. Apply basal FYM every season.
+- Foliar urea spray gives faster visual results than soil application —
+  use it when you need quick recovery during flowering or boll stage.
+
+--------------------------------------------------------------------------------
+
+================================================================================
+NUTRIENT 2: PHOSPHORUS (P)
+================================================================================
+
+1. ROLE OF PHOSPHORUS
+----------------------
+Phosphorus is the foundation nutrient for root development and early plant
+establishment. It is essential for energy transfer within the plant —
+every process that requires energy (germination, root growth, flowering,
+seed filling) depends on phosphorus. In cotton, it supports deep root
+growth, strong seedling establishment, timely flowering, and good seed
+development inside the boll. Plants with good phosphorus availability
+are more drought-tolerant because their deep, strong roots can access
+water and nutrients from deeper soil layers.
+
+2. DEFICIENCY SYMPTOMS
+-----------------------
+- FIRST SIGN: Older, lower leaves show a distinctive dark green to
+  purple-red or reddish-bronze discoloration — especially on the
+  underside of leaves and on the stems and petioles (leaf stalks).
+- This purplish color is caused by accumulation of anthocyanin pigment
+  when phosphorus is insufficient.
+- Leaves may appear dark green initially (the plant holds excess
+  chlorophyll trying to compensate), then turn purple-bronze.
+- Root system is shallow and poorly developed — plants can be pulled
+  out of the soil very easily.
+- Plant growth is slow and stunted. Stem remains thin.
+- Flowering is delayed by 7–14 days compared to healthy plants.
+- Bolls are fewer and smaller. Seed development inside bolls is poor.
+- In severe cases, leaves may turn brown and drop prematurely.
+
+3. CAUSES
+----------
+- Soil pH below 5.5 or above 8.5 — phosphorus becomes "locked" in
+  the soil and unavailable to the plant even if applied.
+- Sandy soils with very low phosphorus levels naturally.
+- Phosphorus fertilizer not applied or applied in insufficient quantity.
+- Cold soil temperature (below 15°C) slows phosphorus uptake by roots.
+- Poor root development from other stresses (waterlogging, root pests)
+  that limit the plant's ability to absorb phosphorus.
+- Phosphorus fertilizer applied on the soil surface without incorporation
+  — it does not move in the soil and stays out of reach of roots.
+
+4. CORRECTION METHODS
+----------------------
+PREVENTIVE (BEST APPROACH — At sowing):
+- Apply full phosphorus dose at sowing time, mixed into the soil in the
+  root zone (10–15 cm depth).
+- SSP (Single Super Phosphate) @ 125 kg per acre — best for cotton as
+  it also provides Sulphur.
+- OR DAP @ 50 kg per acre for a concentrated phosphorus source.
+
+SOIL pH CORRECTION:
+- If soil pH is too high (above 8.0): Apply Gypsum @ 200 kg per acre
+  or Sulphur @ 20–25 kg per acre to reduce pH gradually.
+- If soil pH is too low (below 6.0): Apply agricultural lime as per
+  soil test recommendation.
+
+FOLIAR SPRAY (for quick correction in standing crop):
+- Spray 2% Di-Ammonium Phosphate (DAP) solution: Dissolve 20 g DAP
+  in 1 litre of water and spray on leaves.
+- Repeat every 10–15 days until symptoms reduce.
+
+BIOLOGICAL APPROACH:
+- Apply Phosphate Solubilizing Bacteria (PSB) @ 2.5 kg per acre in
+  soil at sowing — PSB unlocks soil phosphorus and makes it available.
+
+5. FARMER TIPS
+---------------
+- "Baingani ya lal patte = Phosphorus ki kami" — Purple-red coloring
+  on older leaves and stems is the key sign of phosphorus deficiency.
+- Phosphorus does NOT move in the soil. If you apply SSP or DAP on the
+  soil surface and do not mix it in, the roots cannot reach it. Always
+  incorporate phosphorus into the soil at sowing.
+- A soil test is essential because phosphorus deficiency is often caused
+  by wrong soil pH, not just low phosphorus levels. Fixing pH will
+  automatically fix phosphorus availability.
+- SSP is a better choice than DAP in many cotton soils because it also
+  provides Sulphur — an often-neglected nutrient that cotton needs.
+- Phosphorus deficiency that starts early (seedling stage) cannot be
+  fully corrected mid-season. Prevention at sowing time is essential.
+
+--------------------------------------------------------------------------------
+
+================================================================================
+NUTRIENT 3: POTASSIUM (K)
+================================================================================
+
+1. ROLE OF POTASSIUM
+---------------------
+Potassium is called the "quality nutrient" in cotton because of its
+direct impact on lint quality — fiber length, strength, and fineness.
+It regulates water movement inside plant cells, helping the plant handle
+drought and heat stress. Potassium strengthens cell walls, making plants
+more resistant to fungal diseases and pest attack. It activates over 60
+plant enzymes and is critical for boll development, uniform boll opening,
+and movement of sugars from leaves to bolls (boll filling). A potassium-
+deficient plant produces fewer, lighter bolls with weaker, shorter fiber.
+
+2. DEFICIENCY SYMPTOMS
+-----------------------
+- FIRST SIGN: Leaf margins (the edges/borders of leaves) turn yellow,
+  then brown and dry — a symptom called "marginal leaf scorch" or
+  "leaf margin burn."
+- Starts on the OLDER, LOWER leaves first (potassium is mobile).
+- The burnt, brown margin is sharp and clearly defined, while the
+  center of the leaf stays green longer.
+- As deficiency worsens, the browning moves inward from the margins.
+- Leaves may curl upward or downward.
+- In severe cases, entire leaves turn brown and fall off, starting from
+  the bottom of the plant upward.
+- Plants wilt quickly under heat or mild drought — because potassium is
+  needed for water regulation in cells.
+- Bolls are small, lightweight, and do not open fully or uniformly.
+- Lint is short, weak, and of poor market quality.
+- A well-known and severe form called "Cotton Boll Shedding" is often
+  linked to potassium deficiency at boll development stage.
+
+3. CAUSES
+----------
+- Sandy soils are naturally very low in potassium (it leaches easily).
+- Farmers in India traditionally apply N and P but often skip potassium.
+- Continuous cotton cultivation without rotation depletes soil potassium
+  over many seasons.
+- Heavy rainfall or excess irrigation causes potassium leaching in
+  light soils.
+- High calcium or magnesium in soil competes with potassium for
+  root absorption.
+- Soil pH extremes (very acidic or very alkaline) reduce potassium
+  availability.
+
+4. CORRECTION METHODS
+----------------------
+SOIL APPLICATION (Recommended):
+- Apply Muriate of Potash (MOP) @ 33 kg per acre at sowing as part
+  of basal dose.
+- OR Sulphate of Potash (SOP) @ 27 kg per acre (preferred for
+  high-quality lint production — also provides sulphur).
+
+FOLIAR SPRAY (For quick correction and boll filling):
+- Spray 1% Potassium Nitrate (KNO3) solution: Dissolve 10 g in 1 litre
+  of water. Spray at squaring, flowering, and boll development stages.
+- OR spray 0.5% Potassium Sulphate (K2SO4) solution.
+- Foliar potassium spray at boll development stage is one of the most
+  cost-effective yield-boosting practices in cotton.
+
+FERTIGATION (Drip users):
+- Apply SOP or KNO3 through drip system at 2–3 kg per acre per week
+  during flowering and boll development stage.
+
+5. FARMER TIPS
+---------------
+- "Patti ke kinarey jalana = Potash ki kami" — Burnt or scorched leaf
+  margins starting from older leaves is the classic sign of potassium
+  deficiency. Easy to identify once you have seen it once.
+- Potassium is directly connected to your cotton's market price. Better
+  potassium = longer, stronger fiber = higher grade = better price.
+  Do not skip potassium to save money — it costs you more at the market.
+- Spray KNO3 at 1% on leaves during boll development even if no symptoms
+  are visible — it is a proven yield and quality booster.
+- If you are in a drought year, potassium nutrition is extra critical.
+  Plants with good potassium handle water stress far better.
+- In sandy fields or fields with a history of heavy leaching, apply
+  potassium in 2 splits: half at sowing and half at 45 DAS.
+
+--------------------------------------------------------------------------------
+
+================================================================================
+NUTRIENT 4: MAGNESIUM (Mg)
+================================================================================
+
+1. ROLE OF MAGNESIUM
+---------------------
+Magnesium is the central atom of the chlorophyll molecule — the green
+pigment in leaves that captures sunlight and drives photosynthesis. Without
+magnesium, the plant cannot make enough chlorophyll and therefore cannot
+produce enough energy to grow, flower, and fill bolls. Magnesium also
+helps in the movement of phosphorus within the plant and plays a role in
+enzyme activation. In cotton, magnesium deficiency is increasingly common
+in intensively farmed soils with high potassium and calcium inputs, which
+compete with magnesium for absorption by roots.
+
+2. DEFICIENCY SYMPTOMS
+-----------------------
+- FIRST SIGN: Yellowing (chlorosis) begins BETWEEN the veins of the
+  leaf. The veins themselves stay green while the areas between them
+  turn yellow — this distinctive pattern is called "interveinal
+  chlorosis."
+- Starts on OLDER, LOWER leaves first (magnesium is mobile).
+- Initially the leaf looks like a green net with yellow patches between
+  the veins. As deficiency worsens, more of the leaf turns yellow.
+- Leaf edges may turn brown and dry in severe cases.
+- In very severe deficiency, the entire older leaf turns yellow with
+  only the main veins remaining green.
+- Young leaves at the top remain green and normal in appearance (because
+  the plant moves magnesium from old leaves to new growth).
+- Bolls are lighter and fill poorly. Lint quality is reduced.
+- Plants are less efficient at photosynthesis — growth slows and plant
+  looks generally less vigorous.
+
+  KEY DISTINCTION:
+  - Magnesium deficiency: Interveinal chlorosis on OLDER leaves,
+    veins remain green.
+  - Iron deficiency: Interveinal chlorosis on YOUNGER (new) leaves,
+    veins remain green.
+  This distinction helps identify which nutrient is deficient.
+
+3. CAUSES
+----------
+- Sandy soils and highly leached soils are naturally low in magnesium.
+- Continuous use of high-potassium and high-calcium fertilizers
+  reduces magnesium absorption by roots (nutrient competition).
+- Acidic soils (pH below 5.5) lose magnesium through leaching.
+- Soils with very high calcium (calcareous soils, pH above 8.0) block
+  magnesium uptake.
+- Lack of organic matter in soil reduces natural magnesium availability.
+- Magnesium fertilizers are rarely applied by farmers — it is often a
+  forgotten secondary nutrient.
+
+4. CORRECTION METHODS
+----------------------
+SOIL APPLICATION:
+- Apply Magnesium Sulphate (MgSO4 / Epsom Salt) @ 10–15 kg per acre
+  in soil before sowing or as a top dressing.
+- Dolomite limestone @ 100–200 kg per acre — provides both magnesium
+  and calcium and also improves acidic soil pH.
+
+FOLIAR SPRAY (Fastest method for correction):
+- Spray 2% Magnesium Sulphate (Epsom Salt) solution: Dissolve 20 g
+  in 1 litre of water.
+- Apply to leaves in the early morning or evening.
+- Repeat every 10–15 days until interveinal yellowing disappears.
+- Foliar spray gives visual recovery within 7–10 days.
+
+ORGANIC APPROACH:
+- Regular application of FYM and compost helps maintain magnesium
+  levels in soil naturally over multiple seasons.
+
+5. FARMER TIPS
+---------------
+- "Nasdaar peela patta = Magnesium ki kami" — Yellowing between veins
+  (veins stay green) on lower leaves is the signature sign of magnesium
+  deficiency. It looks like a yellow leaf with a green net pattern.
+- Magnesium Sulphate (Epsom Salt) is cheap, widely available, and
+  dissolves easily in water for foliar spray. Keep a small stock
+  available for quick correction during the season.
+- If you are using a lot of MOP (Muriate of Potash) every season,
+  you may be causing magnesium deficiency by competing nutrients.
+  Consider switching partly to SOP (Sulphate of Potash) which does
+  not compete as aggressively.
+- Magnesium deficiency is often misdiagnosed as nitrogen deficiency
+  because both cause yellowing. The key difference: nitrogen deficiency
+  causes uniform yellowing; magnesium causes interveinal yellowing with
+  green veins remaining.
+- Adding dolomite as your liming material (instead of regular lime)
+  gives you both calcium and magnesium in one application.
+
+--------------------------------------------------------------------------------
+
+================================================================================
+NUTRIENT 5: ZINC (Zn)
+================================================================================
+
+1. ROLE OF ZINC
+----------------
+Zinc is a micronutrient — needed in very small quantities — but it plays
+a big role in cotton productivity. Zinc is required for the production of
+auxins (plant growth hormones) that control stem elongation and leaf
+expansion. It is also essential for enzyme functions involved in protein
+synthesis, carbohydrate metabolism, and chlorophyll formation. Zinc
+deficiency is the most common micronutrient deficiency in Indian cotton
+soils and can reduce yield by 15–25% even when macronutrient nutrition
+is adequate. Most Indian cotton soils — especially calcareous (alkaline)
+black soils — are zinc-deficient.
+
+2. DEFICIENCY SYMPTOMS
+-----------------------
+- FIRST SIGN: Appears on NEW, YOUNG leaves first (zinc is immobile —
+  the plant cannot move it from old to new tissues).
+- Young leaves are noticeably smaller than normal — a hallmark sign.
+- Leaves show a bronze, rust-brown, or copper-colored discoloration,
+  especially on the upper surface.
+- Interveinal chlorosis (yellowing between veins) on young leaves —
+  similar to iron deficiency but with bronze/brown tones rather than
+  bright yellow.
+- Shortened internodes — the stem segments between leaves are shorter
+  than normal. The plant looks compact and stunted with a "rosette"
+  appearance (leaves bunched together at the top).
+- Leaf surface may show small, irregular brown necrotic spots.
+- New leaves may be thick, leathery, and distorted in severe cases.
+- Flowering is delayed. Fewer squares form.
+- Bolls are smaller and fiber quality is poor.
+
+3. CAUSES
+----------
+- Most common in calcareous soils (high pH, above 7.5) where zinc
+  is chemically locked and unavailable to roots.
+- Sandy soils with low organic matter.
+- Soils that have been intensively cultivated for many years without
+  micronutrient replenishment.
+- Excessive phosphorus application in previous seasons can reduce zinc
+  availability (phosphorus-zinc antagonism).
+- Flooded or waterlogged conditions temporarily lock zinc.
+- Cold, wet weather at the start of the season reduces zinc uptake
+  by roots.
+
+4. CORRECTION METHODS
+----------------------
+SOIL APPLICATION (Recommended every 2–3 years):
+- Apply Zinc Sulphate (ZnSO4·7H2O, 21% Zn) @ 10 kg per acre in soil
+  during land preparation. Mix well into the soil.
+- Effect lasts 2–3 years in the soil. Repeat every 2–3 seasons.
+
+FOLIAR SPRAY (For quick correction in standing crop):
+- Spray 0.5% Zinc Sulphate solution: Dissolve 5 g of Zinc Sulphate
+  in 1 litre of water.
+- Add a small amount of lime (0.25 g per litre) or urea (5 g per litre)
+  to prevent leaf burn.
+- Spray at 30–35 DAS and again at squaring stage (45–55 DAS).
+- Repeat every 15 days if symptoms persist.
+
+SEED TREATMENT:
+- Coat seeds with Zinc Sulphate @ 2 g per kg of seed before sowing.
+  This provides a zinc boost at the most sensitive germination stage.
+
+5. FARMER TIPS
+---------------
+- "Chote patte aur bronze rang = Zinc ki kami" — Small, bronze-colored
+  new leaves and a stunted, bushy-looking plant is the classic zinc
+  deficiency sign in cotton.
+- Zinc Sulphate soil application needs to be done only once every 2–3
+  years — it is not needed every season. Keep records of when you
+  last applied it.
+- Zinc and phosphorus compete in the soil. If you apply very high
+  phosphorus doses every year, you are likely creating a zinc
+  deficiency — even if zinc is present in the soil.
+- Zinc deficiency symptoms appear very early in the season (25–35 DAS).
+  Early correction at this stage prevents yield loss. If you wait for
+  boll stage to correct zinc, much of the yield loss has already happened.
+- A soil test for micronutrients every 3 years is the best way to track
+  zinc status in your field and apply it only when needed.
+
+--------------------------------------------------------------------------------
+
+================================================================================
+NUTRIENT 6: IRON (Fe)
+================================================================================
+
+1. ROLE OF IRON
+----------------
+Iron is essential for chlorophyll synthesis — without iron, the plant
+cannot produce the green pigment that captures sunlight. Iron is also
+required for many enzyme systems in the plant, especially those involved
+in energy production and nitrogen fixation in the roots. While cotton does
+not need large amounts of iron, the right quantity at the right time is
+critical for maintaining dark green, photosynthetically active leaves.
+Iron deficiency is particularly common in alkaline and calcareous soils —
+the type of soils widely found in Gujarat, Rajasthan, and parts of
+Maharashtra and Punjab where cotton is grown.
+
+2. DEFICIENCY SYMPTOMS
+-----------------------
+- FIRST SIGN: Appears on the YOUNGEST, NEWEST leaves at the top of
+  the plant first — because iron is immobile and cannot be moved from
+  old leaves to new growth.
+- Classic symptom: Bright yellow to almost white coloration between
+  the leaf veins, while the veins themselves remain distinctly green —
+  called "interveinal chlorosis on young leaves."
+- In mild deficiency: Only the youngest leaves look yellow-green with
+  a faint green vein network.
+- In moderate deficiency: Leaves become bright yellow with clearly
+  visible green veins — a striking, distinctive pattern.
+- In severe deficiency: Entire new leaves turn pale yellow to white.
+  The green vein network disappears as veins also lose color.
+- The lower, older leaves remain green and appear normal (opposite of
+  nitrogen deficiency).
+- Plant growth slows. New shoot development is weak.
+- Bolls do not develop fully. Early boll set is poor.
+
+  KEY DISTINCTION FROM MAGNESIUM:
+  - Iron: Interveinal chlorosis on NEW (young, top) leaves.
+  - Magnesium: Interveinal chlorosis on OLD (lower) leaves.
+  Both show green veins with yellow patches, but on different parts of
+  the plant. This is the critical difference for correct diagnosis.
+
+3. CAUSES
+----------
+- High soil pH (above 7.5–8.0) — the most common cause. In alkaline
+  soils, iron converts to insoluble forms that roots cannot absorb.
+  Iron may be physically present in the soil but chemically unavailable.
+- Waterlogged or poorly drained soils where oxygen is low.
+- High levels of calcium, phosphorus, or bicarbonates in the soil
+  that compete with or block iron absorption.
+- Cool soil temperatures in early season reduce iron uptake.
+- Calcareous soils (soils with free calcium carbonate / lime content)
+  — very common in Gujarat and Rajasthan cotton belt.
+- Excessive phosphorus fertilization can induce iron deficiency.
+
+4. CORRECTION METHODS
+----------------------
+FOLIAR SPRAY (Most effective method for iron):
+- Spray 0.5% Ferrous Sulphate (FeSO4) solution: Dissolve 5 g of
+  Ferrous Sulphate in 1 litre of water.
+- Add a few drops of citric acid or 0.1% citric acid to prevent the
+  iron from oxidizing and becoming inactive in the spray solution.
+- Spray on young leaves (top of the plant) in the early morning.
+- Repeat every 7–10 days until new leaves show normal dark green color.
+- Foliar spray is preferred over soil application because soil iron is
+  rapidly locked in alkaline conditions — foliar delivery bypasses
+  the soil problem entirely.
+
+CHELATED IRON (Most efficient but costlier):
+- Apply Fe-EDTA (chelated iron) @ 1 g per litre as foliar spray.
+- Chelated forms remain soluble and available for a longer period than
+  plain ferrous sulphate.
+- Recommended for severe or recurring iron deficiency.
+
+SOIL pH CORRECTION (Long-term solution):
+- Apply elemental Sulphur @ 20–25 kg per acre to gradually lower pH
+  in alkaline soils over 1–2 seasons.
+- Add organic matter (FYM, vermicompost) regularly — organic acids
+  produced by decomposition help release locked iron in soil.
+
+AVOID:
+- Do not mix iron compounds with phosphate fertilizers in the same
+  spray solution — they react and become inactive.
+
+5. FARMER TIPS
+---------------
+- "Nayi pattiyaan peeli, nasdaar = Iron ki kami" — Bright yellow new
+  leaves with clearly green veins at the top of the plant means iron
+  deficiency. The older leaves look fine — that is the key clue.
+- Iron deficiency in cotton is usually a SOIL pH PROBLEM, not a low
+  iron problem. The iron is already in your soil but is locked by
+  high pH. Foliar spray corrects the symptom quickly. Long-term
+  correction needs pH management.
+- Ferrous Sulphate spray is very cheap and effective. Buy it from any
+  agri-input shop and keep it available. Early spraying at first sign
+  of yellowing on new leaves prevents major yield loss.
+- In areas with consistently high soil pH (above 8.0), apply Gypsum
+  @ 200 kg per acre or Sulphur @ 20 kg per acre every 2–3 years as
+  a long-term pH management strategy.
+- Do not wait for "serious" yellowing to start spraying. As soon as
+  you see the first pale yellow new leaves, spray immediately. Iron
+  deficiency spreads fast under hot, alkaline conditions.
+
+================================================================================
+                    QUICK DIAGNOSIS REFERENCE CHART
+================================================================================
+
+WHICH LEAF IS AFFECTED? → START HERE:
+
+OLDER (LOWER) LEAVES AFFECTED FIRST:
+  → Uniform yellowing, all leaf parts yellow
+      = NITROGEN deficiency
+  → Purple-red or reddish-bronze discoloration on underside/stem
+      = PHOSPHORUS deficiency
+  → Leaf margin (edges) brown and scorched, center stays green
+      = POTASSIUM deficiency
+  → Interveinal chlorosis (veins stay green, between veins yellow)
+      = MAGNESIUM deficiency
+
+YOUNGER (UPPER/NEW) LEAVES AFFECTED FIRST:
+  → Small leaves, bronze/rust color, short internodes, bushy plant
+      = ZINC deficiency
+  → Bright yellow between veins, veins clearly green, top leaves
+      = IRON deficiency
+
+GENERAL CORRECTION REMINDER:
+  Soil application = slower but longer lasting correction.
+  Foliar spray     = faster but temporary — repeats needed.
+  Both together    = best results.
+
+================================================================================
+         QUICK CORRECTION DOSE SUMMARY (Per Acre / Per Litre of Water)
+================================================================================
+
+Nutrient   | Soil Application              | Foliar Spray
+-----------|-------------------------------|----------------------------------
+Nitrogen   | Urea @ 15–20 kg               | 2% Urea (20 g per litre)
+Phosphorus | SSP @ 125 kg or DAP @ 50 kg   | 2% DAP solution (20 g per litre)
+Potassium  | MOP @ 33 kg or SOP @ 27 kg    | 1% KNO3 (10 g per litre)
+Magnesium  | MgSO4 @ 10–15 kg              | 2% MgSO4 (20 g per litre)
+Zinc       | ZnSO4 @ 10 kg (every 2–3 yrs) | 0.5% ZnSO4 (5 g per litre)
+Iron       | Sulphur @ 20 kg (pH mgmt)     | 0.5% FeSO4 (5 g per litre)
+                                           | or Fe-EDTA @ 1 g per litre
+================================================================================
+
+Guide Version : 1.0
+Prepared for  : KrushiBandhu AI Farming Assistant – RAG Knowledge Base
+Sources       : ICAR, CICR, FAO, State Agricultural Universities (India)
+================================================================================

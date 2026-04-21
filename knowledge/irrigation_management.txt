@@ -1,0 +1,429 @@
+================================================================================
+         KRUSHHIBANDHU – IRRIGATION MANAGEMENT IN COTTON FARMING
+              A Complete Water Management Guide for Cotton Farmers
+================================================================================
+
+Purpose  : RAG Knowledge Base for KrushiBandhu AI Farming Assistant
+Language : Simple English (suitable for translation to Gujarati and Hindi)
+Audience : Cotton Farmers, Extension Workers, Agri-input Dealers
+Regions  : Gujarat, Maharashtra, Telangana, Punjab, Haryana, Rajasthan,
+           Madhya Pradesh, Karnataka, Andhra Pradesh
+================================================================================
+
+
+--------------------------------------------------------------------------------
+SECTION 1: IMPORTANCE OF PROPER IRRIGATION
+--------------------------------------------------------------------------------
+
+Water is the most important input in cotton farming after seeds and
+fertilizers. Cotton cannot grow, flower, or produce bolls without the
+right amount of water at the right time. Too little water causes the
+plant to wilt, shed flowers and bolls, and produce very low yield. Too
+much water is equally harmful — it waterloggs the roots, causes diseases,
+and wastes a precious resource.
+
+Proper irrigation management matters because:
+
+- Cotton yield is directly linked to water availability at key growth
+  stages. Missing irrigation at the wrong time can reduce yield by 30–50%.
+- Water is becoming scarce in most cotton-growing areas of India. Using
+  water efficiently saves money and protects groundwater.
+- Over-irrigation leaches away valuable nutrients (especially nitrogen)
+  from the root zone, wasting fertilizers and money.
+- Waterlogged soils promote root rot, fungal diseases, and invite pest
+  attack on stressed plants.
+- Proper irrigation reduces stress on the crop and produces more uniform
+  boll development, better lint quality, and higher market price.
+- With the right irrigation system (especially drip), farmers can save
+  30–50% water and still get 20–30% higher yield compared to flood
+  irrigation.
+
+Key principle: "Irrigate based on crop need, not on habit or calendar."
+
+
+--------------------------------------------------------------------------------
+SECTION 2: WATER REQUIREMENTS OF COTTON
+--------------------------------------------------------------------------------
+
+Cotton is a moderately drought-tolerant crop but still needs a significant
+amount of water for good yield. Water requirement changes at every stage
+of the crop.
+
+  TOTAL WATER REQUIREMENT:
+  - Rainfed cotton      : 500–700 mm of rainfall per season is enough
+                          if well distributed.
+  - Irrigated cotton    : 700–1000 mm total water (rainfall + irrigation)
+                          across the full growing season of 150–180 days.
+
+  WATER NEED BY CROP STAGE:
+  -----------------------------------------------------------------------
+  Growth Stage         | Duration      | Water Need   | Sensitivity
+  ---------------------|---------------|--------------|------------------
+  Germination          | 0–10 DAS      | Low–Moderate | High (soil must
+                       |               |              | be moist, not wet)
+  Seedling             | 10–30 DAS     | Low          | Moderate
+  Vegetative           | 30–60 DAS     | Moderate     | Moderate
+  Squaring             | 45–70 DAS     | Moderate     | High
+  Flowering            | 60–90 DAS     | HIGH         | Very High
+  Boll Development     | 80–130 DAS    | HIGH         | Very High
+  Boll Opening/Mature  | 130–180 DAS   | Low          | Moderate
+                       |               | (reduce now) |
+  -----------------------------------------------------------------------
+  DAS = Days After Sowing
+
+  KEY WATER FACTS:
+  - Flowering and boll development stages are the most water-sensitive.
+    Water stress at these stages causes the maximum yield loss.
+  - Cotton can tolerate mild water stress during vegetative stage better
+    than any other stage.
+  - Excess water during boll opening reduces lint quality and causes
+    staining, mould, and boll rot.
+
+
+--------------------------------------------------------------------------------
+SECTION 3: CRITICAL IRRIGATION STAGES
+--------------------------------------------------------------------------------
+
+Not all irrigations are equally important. Missing some can be managed,
+but missing these critical stages causes permanent yield loss.
+
+  CRITICAL IRRIGATION 1 – PRE-SOWING IRRIGATION:
+  - Purpose: To bring soil moisture to field capacity before sowing.
+  - When: 7–10 days before sowing in dry areas (April–May).
+  - Result: Ensures uniform germination and strong seedling emergence.
+  - Skip if: Soil already has adequate moisture from recent rain.
+
+  CRITICAL IRRIGATION 2 – SEEDLING ESTABLISHMENT (10–15 DAS):
+  - Purpose: To support young root development.
+  - When: 10–15 days after sowing if no rain.
+  - Result: Reduces seedling mortality, ensures uniform plant stand.
+  - Caution: Light irrigation only – do not flood young seedlings.
+
+  CRITICAL IRRIGATION 3 – VEGETATIVE STAGE (30–40 DAS):
+  - Purpose: To support rapid leaf and branch development.
+  - When: 30–40 days after sowing.
+  - Result: Builds a strong plant framework that will support more bolls.
+
+  CRITICAL IRRIGATION 4 – SQUARING STAGE (45–55 DAS):
+  - Purpose: To support formation of flower buds (squares).
+  - When: When first squares appear (around 45–55 DAS).
+  - Result: Prevents premature square shedding. More squares = more bolls.
+  - This is a HIGH PRIORITY irrigation. Do not miss.
+
+  CRITICAL IRRIGATION 5 – FLOWERING STAGE (60–75 DAS):
+  - Purpose: To support open flowers and early boll set.
+  - When: At first flower opening and continuing through peak flowering.
+  - Result: Maximum boll retention. This is the MOST CRITICAL irrigation.
+  - Water stress at this stage causes flower drop and empty bolls.
+  - Yield loss from missing this: up to 40–50%.
+
+  CRITICAL IRRIGATION 6 – BOLL DEVELOPMENT STAGE (90–110 DAS):
+  - Purpose: To fill bolls with lint and seeds.
+  - When: When bolls are actively swelling (green boll stage).
+  - Result: Heavier bolls, better lint length and strength.
+  - This is the second most critical irrigation stage.
+
+  STOP IRRIGATION (3–4 weeks before final picking):
+  - Purpose: To allow bolls to dry, split, and open uniformly.
+  - Result: Cleaner lint, better quality, easier picking.
+  - Over-irrigating at this stage causes boll rot, staining, and delay.
+
+  IRRIGATION INTERVAL GUIDE (General):
+  - Sandy / light soils  : Every 7–10 days during peak need.
+  - Black cotton soil    : Every 12–15 days (holds more water).
+  - Use soil finger test : Push finger 5 cm into soil. If dry at that
+    depth, irrigate. If moist, wait.
+
+
+--------------------------------------------------------------------------------
+SECTION 4: IRRIGATION METHODS
+--------------------------------------------------------------------------------
+
+  METHOD 1 – DRIP IRRIGATION (BEST METHOD FOR COTTON):
+  -------------------------------------------------------
+  Drip irrigation delivers water slowly and directly to the root zone
+  through a network of pipes and drippers placed on or below the soil
+  surface.
+
+  HOW IT WORKS:
+  - Drippers placed at 60 cm intervals along the cotton rows.
+  - Water flows at a slow rate (2–4 litres per hour per dripper).
+  - Keeps the root zone consistently moist without waterlogging.
+
+  ADVANTAGES:
+  - Saves 40–50% water compared to flood irrigation.
+  - Increases yield by 20–35% due to consistent moisture and fertigation.
+  - Reduces weed growth (only root zone is wet, inter-row area stays dry).
+  - Enables fertigation – applying fertilizers through drip water, saving
+    30–40% on fertilizer costs.
+  - Reduces fungal disease risk (leaves and soil surface stay dry).
+  - Suitable for water-scarce and drought-prone regions.
+
+  DISADVANTAGES:
+  - Higher initial installation cost (Rs. 30,000–50,000 per acre).
+  - Government subsidy available under PM Krishi Sinchai Yojana (PMKSY)
+    covering 55–90% of the cost for small and marginal farmers.
+  - Requires regular maintenance to prevent clogging of drippers.
+
+  RECOMMENDATION: Drip irrigation is strongly recommended for all
+  irrigated cotton areas. The investment pays back in 2–3 seasons.
+
+  -------------------------------------------------------
+  METHOD 2 – FURROW IRRIGATION (FLOOD / SURFACE IRRIGATION):
+  -------------------------------------------------------
+  Water flows along furrows (channels) made between crop rows.
+
+  HOW IT WORKS:
+  - Furrows are made between cotton rows at sowing.
+  - Water is released into furrows from the irrigation channel.
+  - Water soaks into the soil from the sides of the furrow.
+
+  ADVANTAGES:
+  - Low cost – no equipment needed beyond the furrows.
+  - Suitable for clay and medium soils that hold water well.
+  - Most widely used method in traditional cotton farming.
+
+  DISADVANTAGES:
+  - Uses 2–3 times more water than drip.
+  - Risk of waterlogging if not managed carefully.
+  - Uneven distribution in sloping or irregular fields.
+  - Water runs off the end of furrows if not controlled (wastage).
+
+  BEST PRACTICE FOR FURROW IRRIGATION:
+  - Make furrows on contour (follow the slope) to reduce runoff.
+  - Irrigate only alternate furrows in one irrigation and remaining
+    furrows in the next (Alternate Furrow Irrigation – saves 25–30%
+    water with minimal yield loss).
+  - Stop water before it reaches the end of the furrow to prevent
+    runoff and ensure even distribution.
+
+  -------------------------------------------------------
+  METHOD 3 – SPRINKLER IRRIGATION:
+  -------------------------------------------------------
+  Water is pumped through pipes and sprayed over the crop like rain
+  through rotating nozzles.
+
+  ADVANTAGES:
+  - More uniform distribution than flood irrigation.
+  - Saves 25–35% water compared to flood irrigation.
+  - Useful for light sandy soils where furrow irrigation is difficult.
+  - Can also be used for cooling the crop during extreme heat.
+
+  DISADVANTAGES:
+  - Not ideal for cotton at flowering stage – wetting flowers can
+    cause them to drop and reduce boll set.
+  - Increases humidity around the crop, which can promote fungal
+    diseases (powdery mildew, target spot).
+  - Less water-efficient than drip for cotton.
+
+  RECOMMENDATION: Sprinkler is suitable for germination and vegetative
+  stages. Avoid sprinkler during flowering and boll stage.
+
+
+--------------------------------------------------------------------------------
+SECTION 5: AVOIDING OVER-IRRIGATION
+--------------------------------------------------------------------------------
+
+Over-irrigation is as harmful as drought in cotton. Many farmers over-
+irrigate thinking more water equals more yield — this is not true.
+
+  SIGNS OF OVER-IRRIGATION:
+  - Yellowing of leaves (especially lower, older leaves).
+  - Wilting even when soil is wet (roots cannot absorb oxygen in
+    waterlogged soil).
+  - Stunted growth and pale green color.
+  - Fungal diseases appearing rapidly (root rot, boll rot, target spot).
+  - Fruit (square and boll) shedding increases.
+  - Foul smell from soil (anaerobic / oxygen-deprived conditions).
+
+  CAUSES OF OVER-IRRIGATION:
+  - Irrigating on a fixed schedule without checking soil moisture.
+  - Using flood irrigation without monitoring furrow end flow.
+  - Not accounting for rainfall in the irrigation schedule.
+  - Irrigating before the previous irrigation has been fully used.
+
+  HOW TO AVOID OVER-IRRIGATION:
+  1. Use the FINGER TEST: Push finger 5 cm into soil. Irrigate only
+     when soil is dry at that depth between rows.
+  2. Install a simple rain gauge in the field. Subtract recent rainfall
+     from the irrigation schedule.
+  3. For furrow irrigation: Stop water flow when 80% of the furrow
+     length is covered (remaining 20% will wet by capillary action).
+  4. Use drip or furrow — never flood the entire field.
+  5. Ensure field drainage channels are open before every irrigation.
+
+
+--------------------------------------------------------------------------------
+SECTION 6: DROUGHT MANAGEMENT
+--------------------------------------------------------------------------------
+
+Cotton is moderately tolerant of dry conditions, but prolonged drought
+— especially during flowering and boll stages — can severely damage the
+crop. When water is limited, a smart approach is needed.
+
+  SIGNS OF DROUGHT STRESS IN COTTON:
+  - Leaves curl and roll inward during the day (uncurl at night).
+  - Wilting of shoot tips in the afternoon.
+  - Square and flower shedding increases.
+  - Leaf color changes to dull grey-green.
+  - Growth stops or slows significantly.
+
+  DROUGHT MANAGEMENT STRATEGIES:
+
+  1. PRIORITIZE CRITICAL STAGES:
+     If water is limited, always irrigate first at flowering and boll
+     development stage. These stages give the highest return per litre
+     of water applied.
+
+  2. SOIL MOISTURE CONSERVATION:
+     - Apply dry soil mulch (loose dry soil) between rows after irrigation
+       to seal surface cracks and reduce evaporation.
+     - Intercultural operations (hoeing) break soil crust and reduce
+       water loss by 20–25%.
+     - Apply organic mulch (dry grass, crop residue) @ 2 tonnes per acre
+       between rows. Reduces soil temperature and water evaporation.
+
+  3. ANTI-TRANSPIRANT SPRAY:
+     - Spray Kaolin 5% OR 1% Potassium Chloride on leaves during drought
+       to reduce water loss from leaves (transpiration).
+     - This gives temporary relief during severe moisture stress.
+
+  4. FOLIAR NUTRITION DURING DROUGHT:
+     - Spray 1% Potassium Nitrate (KNO3) on leaves during drought stress.
+     - Potassium helps the plant regulate water use more efficiently.
+
+  5. SKIP IRRIGATION AT LOW-IMPACT STAGES:
+     - Vegetative stage (30–50 DAS) can tolerate mild drought better than
+       other stages. If water is very limited, this stage can be skipped
+       in rainfed cotton without severe yield loss.
+
+
+--------------------------------------------------------------------------------
+SECTION 7: WATER CONSERVATION TECHNIQUES
+--------------------------------------------------------------------------------
+
+Water conservation in cotton farming protects both the farmer's cost and
+the long-term availability of groundwater in the region.
+
+  TECHNIQUE 1 – MULCHING:
+  - Spread dry crop residue, grass, or plastic mulch (25–30 micron)
+    between cotton rows.
+  - Reduces soil surface evaporation by 40–50%.
+  - Maintains soil temperature and improves root growth.
+  - Plastic mulch also controls weeds effectively.
+
+  TECHNIQUE 2 – RAISED BED PLANTING:
+  - Sow cotton on raised beds (60–90 cm wide) with furrows between beds.
+  - Water is applied only in furrows — not flooded over the beds.
+  - Saves 25–30% water, improves drainage, reduces waterlogging risk.
+
+  TECHNIQUE 3 – CONTOUR FARMING:
+  - On sloping land, make ridges and furrows along the contour lines
+    (across the slope, not down the slope).
+  - Prevents water runoff and allows more water to soak into the soil.
+
+  TECHNIQUE 4 – FARM PONDS:
+  - Collect rainwater in on-farm ponds during monsoon.
+  - Use stored water for critical irrigations during dry spells.
+  - Government subsidy available for farm pond construction.
+
+  TECHNIQUE 5 – ALTERNATE FURROW IRRIGATION:
+  - Irrigate every alternate furrow in one irrigation.
+  - Next irrigation, irrigate the remaining furrows.
+  - Saves 25–30% water with less than 5% yield reduction.
+
+  TECHNIQUE 6 – NIGHT IRRIGATION:
+  - Irrigate during night time (9 PM to 6 AM) when evaporation is low.
+  - Can save 15–20% water compared to afternoon irrigation.
+
+  TECHNIQUE 7 – LASER LAND LEVELLING:
+  - Level field precisely using laser-guided equipment.
+  - Ensures uniform water distribution, eliminates waterlogged and
+    dry patches, and saves 20–25% water per irrigation.
+
+
+--------------------------------------------------------------------------------
+SECTION 8: PRACTICAL FARMER TIPS
+--------------------------------------------------------------------------------
+
+  TIP 1 – KNOW YOUR SOIL TYPE FIRST:
+  Sandy soils dry out faster and need more frequent but lighter
+  irrigations. Black cotton soil (clay) holds water much longer and
+  needs fewer, deeper irrigations. Adjust your irrigation schedule to
+  match your soil, not your neighbor's practice.
+
+  TIP 2 – USE THE FINGER TEST EVERY TIME:
+  Before every irrigation, push your finger 5 cm into the soil between
+  two rows in the middle of the field. If it feels dry, irrigate. If it
+  still feels moist, wait 2–3 more days. This simple test saves thousands
+  of litres of water every season.
+
+  TIP 3 – NEVER IRRIGATE A WATERLOGGED FIELD:
+  If you see standing water or very wet soil from previous rain, stop
+  irrigation immediately — even if it is "irrigation day." Open drainage
+  channels first. Irrigating a wet field drowns roots.
+
+  TIP 4 – DO NOT SKIP THE FLOWERING IRRIGATION:
+  Many farmers skip irrigation during flowering because the plant
+  "looks okay." Flowers need water from inside the plant, not just
+  visible wilting. Always ensure soil moisture is adequate from first
+  flower opening to boll set. This one irrigation can save 40% of your
+  potential yield.
+
+  TIP 5 – APPLY DRIP IF POSSIBLE:
+  If you have 2–3 acres or more of irrigated cotton, a drip system with
+  government subsidy pays for itself in 2–3 seasons through water
+  savings, fertilizer savings, and higher yield. Apply for PMKSY subsidy
+  through your state agriculture department or online portal.
+
+  TIP 6 – STOP IRRIGATION 3 WEEKS BEFORE FINAL PICKING:
+  Final boll opening needs dry conditions. Wet bolls develop mould and
+  the lint sticks together, reducing quality and market price. Stop all
+  irrigation 20–25 days before the final cotton picking.
+
+  TIP 7 – IRRIGATE IN THE EVENING DURING SUMMER:
+  Morning and afternoon irrigations lose 20–30% of water to evaporation
+  in hot weather (April–June). Evening and night irrigation is more
+  efficient and keeps the soil cooler.
+
+  TIP 8 – TRACK RAINFALL AND IRRIGATION TOGETHER:
+  Keep a simple notebook with date, rainfall amount, and irrigation done.
+  This helps you avoid over-irrigating after rain and ensures you never
+  miss a critical irrigation. It takes only 2 minutes per week.
+
+  TIP 9 – CLEAN DRIP FILTERS EVERY WEEK:
+  If you use drip irrigation, a clogged filter or dripper can leave
+  patches of your field dry. Clean the filter every week during the
+  season. Flush the drip lines once a month with clean water. A
+  functioning drip system is worth far more than a neglected one.
+
+  TIP 10 – CONSULT KRUSHHIBANDHU FOR IRRIGATION ADVICE:
+  Irrigation needs vary by soil type, variety, weather, and growth
+  stage. Use the KrushiBandhu AI assistant for stage-specific, region-
+  specific irrigation guidance in your local language, especially
+  during unexpected drought or heavy rain conditions.
+
+================================================================================
+               END OF KRUSHHIBANDHU IRRIGATION MANAGEMENT GUIDE
+================================================================================
+
+QUICK REFERENCE – COTTON CRITICAL IRRIGATION SUMMARY:
+------------------------------------------------------
+Stage              | Timing (DAS)  | Priority    | If Missed: Impact
+-------------------|---------------|-------------|----------------------
+Pre-sowing         | Before sowing | High        | Poor germination
+Seedling           | 10–15 DAS     | Moderate    | Poor plant stand
+Vegetative         | 30–40 DAS     | Moderate    | Slow growth
+Squaring           | 45–55 DAS     | High        | Square shedding
+Flowering          | 60–75 DAS     | CRITICAL    | 40–50% yield loss
+Boll Development   | 90–110 DAS    | CRITICAL    | Light, poor bolls
+Stop irrigation    | 130+ DAS      | Important   | Boll rot, poor lint
+------------------------------------------------------
+Total Water Need   : 700–1000 mm (irrigated) | 500–700 mm (rainfed)
+Best Method        : Drip irrigation (saves 40–50% water)
+Field Test         : Finger test at 5 cm depth before every irrigation
+------------------------------------------------------
+
+Guide Version : 1.0
+Prepared for  : KrushiBandhu AI Farming Assistant – RAG Knowledge Base
+================================================================================

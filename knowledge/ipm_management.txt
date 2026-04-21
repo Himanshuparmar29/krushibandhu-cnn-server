@@ -1,0 +1,503 @@
+================================================================================
+        KRUSHIHANDHU – INTEGRATED PEST MANAGEMENT (IPM) GUIDE
+        Crop: Cotton (Gossypium hirsutum and related species)
+        Prepared by: IPM Expert Division
+        Purpose: RAG System Knowledge Document for AI Farming Assistant
+        Language: Simple English (Ready for translation to Gujarati and Hindi)
+================================================================================
+
+================================================================================
+SECTION 1: WHAT IS INTEGRATED PEST MANAGEMENT (IPM)?
+================================================================================
+
+Integrated Pest Management, or IPM, is a smart and practical way to control pests
+and diseases on your farm. The word "integrated" means combining many different
+methods together to fight pests — instead of depending on only one method like
+chemical sprays.
+
+IPM is based on a simple idea:
+  "Use the right method, at the right time, in the right amount —
+   to protect your crop without harming the environment."
+
+IPM does NOT mean you never use pesticides. It means you use pesticides only when
+truly necessary — and only after trying safer methods first.
+
+IPM combines four main tools:
+  1. Prevention — stopping pests before they arrive.
+  2. Monitoring — watching your field regularly to catch problems early.
+  3. Biological and cultural methods — using natural and farming-based solutions.
+  4. Chemical control — using pesticides wisely, only when needed.
+
+The goal of IPM is to keep pest populations BELOW the level where they can cause
+serious damage — this is called the Economic Threshold Level (ETL). You do not
+need to kill every single pest. You just need to keep their numbers low enough
+that your crop is safe and your investment is protected.
+
+================================================================================
+SECTION 2: IMPORTANCE OF IPM IN COTTON FARMING
+================================================================================
+
+Cotton is one of the crops most affected by pests and diseases. In India alone,
+cotton uses nearly 50% of all pesticides sold for agriculture — even though it
+covers only about 5% of the total farming area. This is a serious problem.
+
+WHY IPM IS IMPORTANT FOR COTTON FARMERS:
+
+  ► SAVES MONEY:
+    Following IPM reduces pesticide costs by 30–50%. Farmers spend less on
+    chemicals and get better returns.
+
+  ► PROTECTS HEALTH:
+    Overuse of pesticides causes poisoning, skin problems, and long-term illness
+    for farmers and their families. IPM reduces exposure to harmful chemicals.
+
+  ► PREVENTS RESISTANCE:
+    When the same pesticide is used again and again, pests become resistant
+    (immune) to it. IPM rotates methods and chemicals so pests never become
+    immune.
+
+  ► PROTECTS BENEFICIAL INSECTS:
+    Many insects help farmers — like bees (pollination), ladybird beetles, and
+    lacewings (eat pests). Heavy pesticide use kills these helpful insects.
+    IPM keeps the natural balance in the field.
+
+  ► PROTECTS SOIL AND WATER:
+    Pesticides seep into soil and water sources. IPM reduces chemical pollution
+    and keeps soil healthy for future crops.
+
+  ► IMPROVES COTTON QUALITY:
+    Pesticide residues on cotton fiber reduce quality and market price. IPM
+    produces cleaner cotton that meets export standards.
+
+  ► SUSTAINABLE FARMING:
+    IPM is good for the land, the farmer, the community, and the next generation.
+
+================================================================================
+SECTION 3: MONITORING AND EARLY DETECTION
+================================================================================
+
+Monitoring means regularly walking through your field and carefully observing your
+plants. It is the MOST IMPORTANT step in IPM. You cannot manage pests you have
+not seen.
+
+HOW TO MONITOR YOUR COTTON FIELD:
+
+  FREQUENCY:
+  - Scout your field at least TWICE every week during the growing season.
+  - Scout MORE frequently (every 2–3 days) during the flowering and boll
+    formation stages, as these are the most vulnerable times.
+
+  METHOD – The "W" WALK:
+  - Walk through your field in a W-shaped path, covering different parts of the
+    field equally.
+  - Stop at 10–20 plants at random spots (not in a straight line).
+  - Examine each selected plant carefully from top to bottom.
+
+  WHAT TO CHECK AT EACH PLANT:
+  - Upper surface of leaves: spots, patches, holes, discoloration.
+  - Underside of leaves: insects, eggs, white flies, mites, aphids, mold.
+  - Stem and branches: cracks, dark streaks, lesions, boring holes.
+  - Flower buds (squares): look for holes, drooping, or early dropping.
+  - Bolls: spots, soft areas, entry holes made by worms.
+  - Soil near the base: caterpillars, pupae, or frass (insect droppings).
+
+  TOOLS FOR MONITORING:
+  - Small notebook and pen to record observations.
+  - Magnifying lens (hand lens) to see tiny insects like mites and eggs.
+  - Yellow sticky traps (10–15 per acre) to catch and count whiteflies and aphids.
+  - Pheromone traps (species-specific lures) to monitor bollworm and army worm
+    adult moths. Use 5 traps per acre. Check and record trapped moths weekly.
+  - Light traps (1 per 5 acres) to attract and count night-flying moth pests.
+
+  ECONOMIC THRESHOLD LEVEL (ETL) – WHEN TO ACT:
+  Start treatment ONLY when pest numbers cross the ETL. Here are the ETLs for
+  common cotton pests:
+
+  Pest                    | ETL (Take Action When...)
+  ----------------------- | -------------------------------------------
+  Aphids                  | 10–15 aphids per leaf on 25% of plants
+  Whitefly                | 6–10 adults per leaf on 25% of plants
+  Thrips                  | 10–15 thrips per leaf
+  Bollworm (American)     | 5–8% damaged squares (flower buds)
+  Spotted Bollworm        | 5% damaged bolls
+  Army Worm               | 5 caterpillars per plant
+  Spider Mites            | 20% leaves infested
+
+  If pest numbers are BELOW the ETL — do not spray. Monitor more closely.
+  If pest numbers are AT or ABOVE the ETL — take action immediately.
+
+================================================================================
+SECTION 4: CULTURAL CONTROL METHODS
+================================================================================
+
+Cultural control means using good farming practices to prevent pests and diseases
+from establishing in the first place. These are the cheapest and safest methods.
+
+KEY CULTURAL PRACTICES FOR COTTON:
+
+  ► CHOOSE THE RIGHT VARIETY:
+    Use certified cotton seeds with resistance or tolerance to common pests in
+    your region. Check with your local agriculture office or KVK for recommended
+    varieties.
+
+  ► PLANT AT THE RIGHT TIME:
+    Sow cotton at the recommended time for your region. Late planting increases
+    pest pressure. Early, timely planting allows cotton to grow strong before
+    peak pest seasons.
+
+  ► CROP ROTATION:
+    Do not plant cotton in the same field every year. Rotate with wheat, chickpea,
+    sorghum, or groundnut. Crop rotation breaks the life cycle of soil-dwelling
+    pests and reduces disease buildup.
+
+  ► PROPER SPACING:
+    Maintain recommended row spacing (usually 90–100 cm between rows, 45–60 cm
+    between plants). Good spacing improves air circulation, reduces moisture in
+    the canopy, and lowers fungal disease risk.
+
+  ► WEED MANAGEMENT:
+    Remove weeds regularly. Weeds provide shelter and food for pests, and
+    also compete with cotton for nutrients and water.
+    Weed 2–3 times: at 20–25 days, 40–45 days, and 60–65 days after planting.
+
+  ► NUTRIENT MANAGEMENT:
+    Follow recommended fertilizer doses. Avoid excessive nitrogen fertilizer —
+    it produces very soft, leafy growth that attracts aphids, whitefly, and
+    other sucking pests.
+
+  ► DESTROY CROP RESIDUES:
+    After harvest, remove or deep plough all plant stems, roots, and leaves.
+    This destroys the resting places of pests and fungi that survive for the
+    next season.
+
+  ► FIELD SANITATION:
+    Remove dead plants, fallen bolls, and leaves from the field. Do not leave
+    infected plant material lying on the ground.
+
+  ► INTERCROPPING:
+    Grow border crops or trap crops like:
+    - Maize (corn): at field borders — attracts bollworms away from cotton.
+    - Sunflower: attracts beneficial insects like lacewings.
+    - Coriander, marigold, or fennel: attract predatory and parasitic insects.
+
+================================================================================
+SECTION 5: MECHANICAL CONTROL METHODS
+================================================================================
+
+Mechanical control means physically removing, trapping, or killing pests using
+tools, traps, or manual labor. These methods are safe, chemical-free, and effective
+especially when pest numbers are still low.
+
+PRACTICAL MECHANICAL METHODS FOR COTTON:
+
+  ► HAND PICKING:
+    In small fields, collect and destroy caterpillars, egg masses, and infected
+    bolls by hand. Drop them in a bucket of kerosene water to kill them.
+    Best done early morning when pests are inactive.
+
+  ► YELLOW STICKY TRAPS:
+    Yellow color attracts whiteflies, aphids, and leaf miners.
+    Use 10–15 traps per acre hung at plant height.
+    Check traps every 5–7 days and replace when covered with insects.
+
+  ► PHEROMONE TRAPS:
+    These traps use chemical scents (pheromones) that attract male moths.
+    When male moths are caught, they cannot mate — reducing egg laying.
+    Use species-specific lures for: American Bollworm, Spotted Bollworm,
+    Spodoptera (Army Worm), and Pink Bollworm.
+    Rate: 5 traps per acre. Replace lures every 4–6 weeks.
+
+  ► LIGHT TRAPS:
+    Install 1 light trap per 5 acres. Moths are attracted to light at night and
+    fall into the trap. Check and empty traps every morning.
+    Helps monitor pest populations AND reduce adult moth numbers.
+
+  ► BIRD PERCHES (T-SHAPED STICKS):
+    Place T-shaped wooden perches throughout the field at a height of about
+    1.5 meters above the plant canopy.
+    Rate: 10 perches per acre.
+    Birds like common mynahs, sparrows, and egrets land on perches and eat
+    caterpillars, bollworms, and other pests. Completely free and natural!
+
+  ► REMOVAL OF DAMAGED PLANT PARTS:
+    Regularly remove and destroy heavily infested or diseased leaves, branches,
+    and bolls. Do not leave them in the field — bury or burn them away from
+    the field.
+
+================================================================================
+SECTION 6: BIOLOGICAL CONTROL METHODS
+================================================================================
+
+Biological control means using living organisms — insects, fungi, bacteria, or
+viruses — to control pests. Nature already has a system of checks and balances.
+Biological control works WITH nature instead of against it.
+
+NATURAL ENEMIES TO PROTECT AND ENCOURAGE:
+
+  PREDATORS (eat pests directly):
+  - Ladybird beetles (ladybugs): eat aphids and whitefly eggs.
+  - Chrysoperla carnea (Green Lacewing): larvae eat aphids, mites, whitefly,
+    and bollworm eggs. Available for purchase and release.
+  - Spiders: eat many types of insects.
+  - Ground beetles: eat pupae and caterpillars on the soil.
+  - Dragonflies and wasps: eat moths and caterpillars.
+
+  PARASITOIDS (lay eggs inside or on pests, killing them):
+  - Trichogramma spp.: tiny wasps that lay eggs inside bollworm and army worm
+    eggs. Release 1,00,000 eggs per acre, every 10–15 days during flowering.
+    Available from agriculture departments, KVKs, and bio-agent suppliers.
+  - Bracon hebetor: parasitizes bollworm larvae.
+
+  MICROBIAL PESTICIDES (microorganisms that kill specific pests):
+
+  - Bacillus thuringiensis (Bt):
+    A natural soil bacterium that produces proteins toxic to caterpillars
+    (bollworms, army worms) but harmless to humans, animals, and beneficial
+    insects.
+    Dose: 500 grams per acre mixed in water.
+    Apply in the evening for best results.
+
+  - Nuclear Polyhedrosis Virus (NPV):
+    A virus that kills Helicoverpa (American Bollworm) and Spodoptera
+    (Army Worm) caterpillars specifically.
+    Dose: 250 Larval Equivalents (LE) per acre.
+
+  - Beauveria bassiana:
+    A fungus that infects and kills many pest insects including whitefly,
+    aphids, thrips, and mites.
+    Spray as a fine mist in the early morning or evening.
+
+  - Trichoderma viride / harzianum:
+    Soil and foliar fungus that protects against soil-borne fungal diseases
+    and some foliar diseases like Target Spot.
+    Use as seed treatment and soil drench.
+
+  - Pseudomonas fluorescens:
+    A beneficial bacterium that protects roots and leaves against bacterial
+    and fungal diseases.
+
+  HOW TO PROTECT NATURAL ENEMIES IN YOUR FIELD:
+  - Avoid broad-spectrum pesticides that kill beneficial insects.
+  - Grow flowering border plants to provide food (nectar) for beneficial insects.
+  - Do not spray during peak beneficial insect activity (morning hours).
+  - Use selective pesticides that target only the pest species.
+
+================================================================================
+SECTION 7: BOTANICAL PESTICIDES (PLANT-BASED SPRAYS)
+================================================================================
+
+Botanical pesticides are made from plants and plant extracts. They are safer for
+humans and the environment compared to synthetic chemical pesticides. They break
+down quickly in the environment and do not leave harmful residues.
+
+IMPORTANT BOTANICAL OPTIONS FOR COTTON FARMERS:
+
+  ► NEEM-BASED PRODUCTS:
+    Neem (Azadirachta indica) is the most powerful and widely used botanical
+    pesticide in India. It works against more than 200 pest species.
+
+    How neem works:
+    - Repels insects from the plant.
+    - Disrupts the growth and reproduction of insects.
+    - Reduces the appetite of insects (they stop eating the plant).
+
+    Neem products available:
+    - Azadirachtin 0.03% EC (commercial neem extract): 400–600 ml per acre.
+    - Neem Seed Kernel Extract (NSKE 5%):
+      Crush 5 kg neem seeds, soak in 10 liters of water overnight, filter,
+      and dilute to 100 liters. Add a few drops of soap as a sticker.
+    - Neem oil spray: 5 ml neem oil per 1 liter of water + a few drops of soap.
+
+    Works well against: aphids, whitefly, thrips, mites, and young bollworms.
+
+  ► GARLIC-CHILI SPRAY (HOME REMEDY):
+    Crush 100 grams garlic + 50 grams green chili in 1 liter of water.
+    Filter and dilute in 10 liters of water. Spray on plants.
+    Repels many sucking insects.
+
+  ► TOBACCO LEAF EXTRACT:
+    Soak 500 grams dry tobacco leaves in 10 liters of water overnight.
+    Filter and spray. Contains nicotine which repels and kills soft-bodied pests
+    like aphids and mites.
+    CAUTION: Toxic to humans — wear gloves when preparing and spraying.
+
+  ► COW URINE SPRAY:
+    Dilute fresh cow urine 1:10 with water and spray on leaves.
+    Acts as a mild repellent and also has some anti-fungal properties.
+    Traditional and cost-free remedy used by many farmers.
+
+================================================================================
+SECTION 8: SAFE CHEMICAL CONTROL
+================================================================================
+
+Chemical pesticides should be the LAST OPTION in IPM — used only when pest numbers
+cross the Economic Threshold Level and other methods have not been sufficient.
+
+PRINCIPLES OF SAFE CHEMICAL USE IN IPM:
+
+  ► USE SELECTIVELY:
+    Choose pesticides that target only the specific pest and do not harm
+    beneficial insects. Avoid broad-spectrum pesticides when possible.
+
+  ► USE CORRECT DOSE:
+    Always follow the recommended dose on the label. Using more does not improve
+    results — it wastes money and harms the environment.
+
+  ► ROTATE CHEMICALS:
+    Do not use the same pesticide every spray. Rotate between different chemical
+    groups to prevent pests from developing resistance.
+
+  ► SPRAY AT RIGHT TIME:
+    - Spray in the early morning or late evening when beneficial insects
+      (like bees) are less active.
+    - Avoid spraying on windy days or before heavy rain.
+    - Do not spray during flowering to protect pollinators.
+
+  ► FOLLOW SAFETY PRECAUTIONS:
+    - Wear gloves, mask, and long-sleeved clothing when handling pesticides.
+    - Never spray near ponds, rivers, or water sources.
+    - Store pesticides in a cool, dry, locked place — away from children.
+    - Dispose of empty pesticide containers safely. Never reuse them.
+
+  ► OBSERVE PRE-HARVEST INTERVAL (PHI):
+    Stop all pesticide spraying at least 14–21 days before cotton harvest, as
+    per the label instructions. This keeps residues out of the fiber.
+
+  RECOMMENDED PESTICIDE GROUPS FOR COTTON IPM
+  (Use only when ETL is crossed):
+
+  Pest Target         | Pesticide Group          | Example (Generic Name)
+  ------------------- | ------------------------ | -------------------------
+  Sucking pests       | Neonicotinoids           | Imidacloprid, Thiamethoxam
+  (aphids, whitefly)  | Organophosphates         | Dimethoate, Profenofos
+  Bollworms           | Pyrethroids              | Lambda-cyhalothrin
+  (caterpillars)      | Diamides                 | Chlorantraniliprole
+                      | Spinosyns (semi-natural) | Spinosad
+  Fungal diseases     | Triazoles                | Propiconazole, Hexaconazole
+                      | Strobilurins             | Azoxystrobin
+                      | Inorganic fungicides     | Copper Oxychloride, Sulphur
+  Bacterial diseases  | Copper bactericides      | Copper Oxychloride
+                      | Antibiotics (limited use)| Streptomycin + Tetracycline
+
+================================================================================
+SECTION 9: ADVANTAGES OF IPM
+================================================================================
+
+  ✔ LOWER FARMING COSTS:
+    Fewer and smarter pesticide sprays mean less money spent on chemicals.
+    Many IPM practices like crop rotation, sanitation, and biological control
+    cost very little or nothing.
+
+  ✔ BETTER FARMER HEALTH:
+    Reduced use of toxic pesticides means less exposure to chemicals.
+    Farmers and their families are safer.
+
+  ✔ HIGHER QUALITY COTTON:
+    Less pesticide residue on fiber means better quality and better market price.
+    International buyers prefer cotton grown with IPM practices.
+
+  ✔ HEALTHY SOIL AND ENVIRONMENT:
+    IPM protects soil microorganisms, water quality, and biodiversity.
+    Farms remain productive for future generations.
+
+  ✔ SUSTAINABLE PEST CONTROL:
+    Because IPM uses multiple methods, pests do not develop resistance as quickly.
+    The same practices work year after year.
+
+  ✔ SUPPORTS NATURAL ECOSYSTEM:
+    Beneficial insects, birds, and natural predators thrive in IPM fields.
+    This creates a natural, self-regulating pest management system over time.
+
+  ✔ ELIGIBILITY FOR BETTER MARKETS:
+    IPM-certified cotton can access premium markets, organic programs, and
+    government support schemes.
+
+================================================================================
+SECTION 10: PRACTICAL FIELD TIPS FOR FARMERS
+================================================================================
+
+Here are the most important field-level tips for successful IPM in cotton farming:
+
+  1. ALWAYS START WITH GOOD SEEDS:
+     Buy certified, disease-resistant seeds from a trusted source.
+     Treat seeds with Trichoderma + Pseudomonas before planting.
+
+  2. SCOUT YOUR FIELD TWICE A WEEK — WITHOUT FAIL:
+     Most crop damage can be prevented if caught early.
+     Early detection = less damage + less money spent on treatment.
+
+  3. KEEP A FARM DIARY:
+     Write down what pests you see, when you see them, and what you did.
+     This record helps you predict and prepare better next season.
+
+  4. INSTALL PHEROMONE TRAPS FROM DAY ONE:
+     Set up bollworm and army worm pheromone traps from the time plants
+     emerge. This gives you advance warning of pest activity.
+
+  5. PUT UP BIRD PERCHES:
+     Install T-shaped perches (10 per acre) from the early vegetative stage.
+     Attracting birds is completely free pest control.
+
+  6. DO NOT PANIC AND SPRAY:
+     Many farmers spray at the first sight of any pest. This is wrong.
+     Check if pest numbers are above the ETL before spraying.
+     Unnecessary spraying kills beneficial insects and wastes money.
+
+  7. NEEM FIRST, CHEMICALS LAST:
+     Always try neem spray or biological control first.
+     Use chemical pesticides only when ETL is crossed and other methods fail.
+
+  8. ROTATE YOUR PESTICIDES:
+     If you use one pesticide this week, use a different type next time.
+     This prevents pests from becoming resistant.
+
+  9. COORDINATE WITH YOUR NEIGHBORS:
+     Pests do not respect field boundaries. If you and your neighbors spray
+     at the same time, you get much better results.
+     Talk to your farming community about IPM practices.
+
+  10. CONTACT YOUR LOCAL AGRICULTURE OFFICE OR KVK:
+      If you are unsure about a pest or disease, take a sample or photo
+      to your nearest Krishi Vigyan Kendra (KVK), agriculture extension
+      officer, or use the KrushiBandhu AI assistant for guidance.
+      Getting the right diagnosis is the first step to the right solution.
+
+================================================================================
+QUICK REFERENCE: IPM STEPS IN ORDER
+================================================================================
+
+STEP 1  →  Use good seeds + seed treatment (Prevention)
+STEP 2  →  Follow proper crop calendar — timing, spacing, rotation (Cultural)
+STEP 3  →  Set up traps and perches from Day 1 (Mechanical)
+STEP 4  →  Scout field twice weekly — record pest numbers (Monitoring)
+STEP 5  →  If pest numbers are below ETL — continue monitoring
+STEP 6  →  If pest numbers are near ETL — apply neem/Bt/biological spray
+STEP 7  →  If pest numbers cross ETL — apply selective chemical pesticide
+STEP 8  →  Rotate pesticide groups to prevent resistance
+STEP 9  →  After harvest — destroy residues, deep plough, sanitize field
+STEP 10 →  Review your farm diary and prepare better for next season
+
+================================================================================
+END OF KRUSHIHANDHU COTTON IPM GUIDE
+================================================================================
+
+DOCUMENT SUMMARY
+----------------
+This guide explains Integrated Pest Management (IPM) for cotton farming
+across 10 detailed sections:
+1. What is IPM
+2. Why IPM matters for cotton
+3. How to monitor and scout your field
+4. Cultural control practices
+5. Mechanical traps and tools
+6. Biological control — natural enemies and microbial sprays
+7. Botanical and plant-based pesticides
+8. Safe and smart chemical use
+9. Benefits of IPM
+10. Practical field tips and step-by-step guidance
+
+PREPARED FOR: KrushiBandhu AI Farming Assistant
+INTENDED USE: RAG Knowledge Base for IPM Advisory
+LANGUAGE: Simple English (Ready for translation to Gujarati and Hindi)
+VERSION: 1.0
+================================================================================

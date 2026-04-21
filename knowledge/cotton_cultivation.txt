@@ -1,0 +1,525 @@
+--------------------------------------------------------------------------------
+SECTION 1: INTRODUCTION TO COTTON FARMING
+--------------------------------------------------------------------------------
+
+Cotton is one of the most important cash crops in India. It is called the
+"White Gold" of Indian agriculture. India is one of the largest producers
+and exporters of cotton in the world. Cotton provides raw material for the
+textile industry and supports the livelihoods of millions of farmers,
+workers, and traders across the country.
+
+In India, cotton is grown in about 120–130 lakh hectares of land every year.
+The major cotton-growing states are Gujarat, Maharashtra, Telangana, Andhra
+Pradesh, Karnataka, Madhya Pradesh, Rajasthan, Punjab, and Haryana.
+
+There are two main types of cotton grown in India:
+  1. Desi cotton (G. arboreum and G. herbaceum) – shorter staple, traditional.
+  2. American cotton (G. hirsutum) – most widely grown, longer staple, higher
+     yield, includes Bt cotton varieties.
+  3. Egyptian cotton (G. barbadense) – extra-long staple, grown in limited areas.
+
+Today, most Indian farmers grow Bt cotton (Bollgard varieties) because it
+provides built-in protection against bollworm pests and gives higher yields.
+Cotton is a kharif crop – it is sown in summer and harvested in winter.
+
+A good understanding of cotton cultivation from land preparation to harvest
+is essential to maximize yield and profit. This guide covers all the key
+steps in simple language.
+
+
+--------------------------------------------------------------------------------
+SECTION 2: SUITABLE CLIMATE AND TEMPERATURE
+--------------------------------------------------------------------------------
+
+Cotton is a warm-weather crop. It needs a long, frost-free growing season
+of 150–180 days. The following climate conditions are ideal:
+
+  TEMPERATURE:
+  - Germination (seed sprouting): 18–30°C. Best at 25–30°C.
+  - Vegetative growth stage    : 25–35°C.
+  - Flowering stage            : 25–30°C (cool nights improve boll set).
+  - Boll development stage     : 27–32°C during the day.
+  - Too hot (above 40°C)       : Causes flower and boll shedding.
+  - Too cold (below 15°C)      : Slows growth and damages young plants.
+  - Frost                      : Kills the cotton plant. Avoid frost-prone
+                                 areas or harvest before frost arrives.
+
+  RAINFALL:
+  - Ideal annual rainfall: 50–100 cm, well distributed.
+  - Cotton needs good moisture during germination, flowering, and boll
+    filling stages.
+  - Too much rain during boll opening causes lint staining and quality loss.
+  - Dry, sunny weather during boll opening is preferred.
+
+  SUNLIGHT:
+  - Cotton needs 8–10 hours of bright sunlight per day.
+  - Longer daylight hours promote vegetative growth; shorter days
+    (after monsoon) promote flowering and fruiting.
+  - Cloudy weather reduces photosynthesis and increases pest-disease risk.
+
+  HUMIDITY:
+  - Moderate humidity (50–70%) during growing season is ideal.
+  - Very high humidity (above 80%) during boll stage encourages
+    fungal diseases and boll rot.
+
+
+--------------------------------------------------------------------------------
+SECTION 3: SOIL REQUIREMENTS
+--------------------------------------------------------------------------------
+
+Cotton can be grown in a wide range of soils but performs best under
+specific soil conditions.
+
+  SOIL TYPE:
+  - Best soil: Deep, well-drained, medium to heavy black cotton soil
+    (Vertisols / Regur soil). This soil holds moisture well and is
+    naturally fertile.
+  - Also suitable: Sandy loam, clay loam soils with good drainage.
+  - Avoid: Waterlogged, saline, alkaline, or very light sandy soils.
+
+  SOIL DEPTH:
+  - Minimum 60 cm deep. Deeper is better (90–120 cm ideal) as cotton
+    has a deep taproot system.
+  - Shallow soils cause stunted growth and poor yield.
+
+  SOIL pH:
+  - Ideal range: 6.0–8.0 (slightly acidic to slightly alkaline).
+  - Below pH 6.0: Nutrient deficiencies (especially phosphorus) occur.
+  - Above pH 8.5: Micronutrient deficiencies (iron, zinc, manganese)
+    and reduced germination.
+
+  DRAINAGE:
+  - Good drainage is essential. Cotton does not tolerate waterlogging.
+  - Even one day of waterlogging at seedling stage can kill the crop.
+  - If soil drainage is poor, form raised beds or ridges before sowing.
+
+  ORGANIC MATTER:
+  - Higher organic matter improves soil structure, water retention, and
+    nutrient availability.
+  - Add 4–5 tonnes per acre of well-decomposed FYM (Farm Yard Manure)
+    or compost during land preparation.
+
+  MICRONUTRIENTS:
+  - Cotton frequently shows deficiency of Zinc (Zn), Boron (B), and
+    Iron (Fe). Soil testing is strongly recommended before each season.
+  - Apply Zinc Sulphate @ 10 kg per acre if soil test shows deficiency.
+
+
+--------------------------------------------------------------------------------
+SECTION 4: LAND PREPARATION
+--------------------------------------------------------------------------------
+
+Good land preparation creates the ideal seedbed for cotton germination
+and root development. This is a critical step that affects the entire crop.
+
+  STEP 1 – DEEP PLOUGHING (Summer Ploughing):
+  - Plough the field 20–30 cm deep using a disc plough or MB plough.
+  - Do this in April–May (summer) after the previous crop is removed.
+  - Benefits: Breaks hardpan, exposes pest pupae and disease spores to
+    sunlight, improves water penetration, removes deep-rooted weeds.
+
+  STEP 2 – HARROWING AND LEVELLING:
+  - After deep ploughing, harrow the field 2–3 times to break clods.
+  - Level the field properly for uniform water distribution.
+  - Remove stones, crop residue, and stubble from the field.
+
+  STEP 3 – ADDING ORGANIC MATTER:
+  - Apply 4–5 tonnes per acre of well-decomposed FYM or compost.
+  - Mix it evenly into the soil during the last harrowing.
+  - This improves soil structure and adds nutrients slowly.
+
+  STEP 4 – FORMING RIDGES AND FURROWS (if irrigated):
+  - For irrigated cotton, form ridges and furrows at the required
+    plant spacing (row spacing 90–120 cm).
+  - This helps in proper irrigation and drainage management.
+
+  STEP 5 – SOIL TESTING:
+  - Collect soil samples before the season and get them tested at the
+    nearest Soil Testing Laboratory.
+  - Apply fertilizers based on the soil test report, not on guesswork.
+  - Key nutrients to test: N, P, K, pH, EC, Organic Carbon, Zinc, Boron.
+
+
+--------------------------------------------------------------------------------
+SECTION 5: SEED SELECTION
+--------------------------------------------------------------------------------
+
+Choosing the right seed variety is one of the most important decisions in
+cotton farming. The right variety can significantly increase yield and
+reduce problems.
+
+  TYPES OF COTTON SEEDS AVAILABLE IN INDIA:
+  1. Bt Cotton Hybrid Seeds (Bollgard I / Bollgard II):
+     - Most widely used in India (about 95% of area under Bt cotton).
+     - Contains Bt genes (Cry1Ac and Cry2Ab in BG-II) that protect
+       against American bollworm, Spotted bollworm, and Pink bollworm.
+     - Higher yield potential: 15–25 quintals of seed cotton per acre.
+     - Available from companies like Mahyco, Bayer, Rasi Seeds, Nuziveedu,
+       Ankur, Ajeet, Tulasi, etc.
+  2. Non-Bt Hybrid Seeds:
+     - Used in some regions; require more pesticide use for bollworms.
+  3. Desi Varieties (open-pollinated):
+     - Used in certain specific regions; lower input cost; more suitable
+       for organic farming.
+
+  GUIDELINES FOR SEED SELECTION:
+  - Always buy certified seeds from registered dealers or companies.
+  - Look for the government certification tag on the packet.
+  - Choose a variety recommended by your State Agriculture Department
+    for your region and soil type.
+  - Consider: maturity duration (short/medium/long duration), boll size,
+    fiber length, and suitability for irrigated or rainfed conditions.
+  - Do not use saved seeds from Bt hybrid cotton – hybrids do not breed
+    true and performance will be poor in the second year.
+  - For Bt cotton, maintain 20% refuge crop (non-Bt cotton or other
+    susceptible crop) to comply with the Bt refuge requirement.
+
+  SEED RATE:
+  - Bt Hybrid cotton : 750 g – 1 kg per acre (approx. 450–500 g per packet)
+  - Non-Bt Hybrid    : 1–1.5 kg per acre
+  - Desi varieties   : 4–5 kg per acre
+
+
+--------------------------------------------------------------------------------
+SECTION 6: SEED TREATMENT
+--------------------------------------------------------------------------------
+
+Seed treatment is a low-cost but highly effective practice. Treating seeds
+before sowing protects the young seedling from soil-borne diseases, insects,
+and improves germination and early growth.
+
+  STEP 1 – FUNGICIDE TREATMENT (for fungal diseases):
+  - Carboxin 37.5% + Thiram 37.5% DS  @ 3 g per kg of seed
+    OR
+  - Thiram 75% WS                      @ 3 g per kg of seed
+  - This protects against seed rot, damping-off, and early fungal infections.
+
+  STEP 2 – BACTERIAL BLIGHT TREATMENT:
+  - Streptomycin Sulphate 90% SP (100 ppm solution):
+    Dissolve 1 g in 10 litres of water and soak seeds for 30 minutes.
+    Then dry seeds in shade before sowing.
+  - This protects against Bacterial Blight (Black Arm disease).
+
+  STEP 3 – INSECTICIDE TREATMENT (for sucking pests):
+  - Imidacloprid 70% WS @ 5–7 g per kg of seed.
+  - Protects seedlings from aphids, jassids, whitefly, and thrips for
+    the first 30–40 days after germination.
+  - Note: Many Bt cotton seed packets come pre-treated with Imidacloprid.
+    Check the packet label before applying again.
+
+  STEP 4 – BIOFERTILIZER TREATMENT (optional but beneficial):
+  - Azospirillum @ 25 g per kg of seed (nitrogen-fixing bacteria).
+  - Phosphate Solubilizing Bacteria (PSB) @ 25 g per kg of seed.
+  - Apply biofertilizers LAST, after chemical treatments.
+  - Allow 8–10 hours between chemical seed treatment and biofertilizer
+    application to prevent killing the beneficial bacteria.
+
+  IMPORTANT: Always treat seeds in shade, not in direct sunlight. Dry
+  treated seeds in shade before sowing. Never eat treated seeds.
+  Keep away from children and animals. Wash hands after treatment.
+
+
+--------------------------------------------------------------------------------
+SECTION 7: SOWING TIME
+--------------------------------------------------------------------------------
+
+Sowing at the right time is critical. Early sowing allows the crop to
+establish before pest pressure peaks. Late sowing reduces yield.
+
+  REGION-WISE RECOMMENDED SOWING TIME:
+  -----------------------------------------------------------------------
+  Region                     | Irrigated Cotton  | Rainfed Cotton
+  ---------------------------|-------------------|----------------------
+  Gujarat                    | April 15 – May 31 | June 1 – June 30
+  Maharashtra (Vidarbha)     | May 1 – June 15   | June 15 – July 15
+  Telangana / Andhra Pradesh | May 1 – June 15   | June 15 – July 10
+  Punjab / Haryana           | April 15 – May 15 | May 1 – May 31
+  Rajasthan                  | May 1 – May 31    | June 15 – July 15
+  Madhya Pradesh             | May 15 – June 15  | June 15 – July 15
+  Karnataka                  | May 1 – June 30   | June 15 – July 15
+  -----------------------------------------------------------------------
+
+  KEY PRINCIPLES:
+  - Early sowing (before monsoon) with irrigation gives higher yield
+    because the crop benefits from a longer growing season.
+  - Rainfed cotton should be sown within 2 weeks of the first good
+    monsoon rain (when soil has 6–8 cm moisture).
+  - Do NOT sow if soil temperature is below 18°C – germination will
+    be poor and uneven.
+  - Avoid sowing when heavy rain is forecast in the next 2–3 days –
+    seeds may rot before germination.
+  - Every 15-day delay in sowing after the optimal period reduces
+    yield by approximately 5–10%.
+
+
+--------------------------------------------------------------------------------
+SECTION 8: SOWING METHOD
+--------------------------------------------------------------------------------
+
+  METHOD 1 – MANUAL DIBBLING (most common for small farmers):
+  - Open furrows or pits at the required spacing using a stick or
+    animal-drawn marker.
+  - Place 2 seeds per hole, 2–3 cm deep.
+  - Cover with soil and firm gently.
+  - After germination, thin to 1 plant per hole at 10–15 days.
+
+  METHOD 2 – SEED DRILL SOWING:
+  - Use a bullock or tractor-mounted seed drill.
+  - Sow at the required row spacing.
+  - Good for uniform depth and spacing; saves time in large fields.
+
+  METHOD 3 – RAISED BED SOWING (for irrigated cotton):
+  - Form raised beds (60–90 cm wide) with furrows between them.
+  - Sow 2 rows per bed.
+  - Benefits: Excellent drainage, water saving (30–40%), better root
+    aeration, and easier intercultural operations.
+
+  SOWING DEPTH:
+  - Ideal depth: 2–3 cm in moist soil.
+  - Maximum depth: 5 cm in dry, sandy soil (to reach moisture).
+  - Deeper than 5 cm: Poor and uneven germination.
+
+
+--------------------------------------------------------------------------------
+SECTION 9: PLANT SPACING
+--------------------------------------------------------------------------------
+
+Correct spacing ensures every plant gets enough sunlight, air, water, and
+nutrients. Overcrowding increases pest and disease problems.
+
+  RECOMMENDED SPACING:
+  ---------------------------------------------------------------
+  Condition          | Row Spacing  | Plant Spacing | Plants/Acre
+  -------------------|--------------|---------------|------------
+  Irrigated, fertile | 120 cm       | 60–90 cm      | 400–550
+  Rainfed, black soil| 90 cm        | 60 cm         | 750–800
+  Rainfed, poor soil | 75–90 cm     | 45–60 cm      | 900–1200
+  Desi varieties     | 60–75 cm     | 30–45 cm      | 1500–2000
+  ---------------------------------------------------------------
+
+  KEY POINTS:
+  - Wider spacing for irrigated cotton as plants grow bigger.
+  - Narrower spacing for rainfed, shorter-season, desi varieties.
+  - Avoid overcrowding – it promotes diseases, pest buildup, and
+    makes spray application difficult.
+  - Gap filling: Check germination at 7–10 days. Re-sow any gaps
+    immediately. Final plant stand should be at least 85–90% of target.
+  - Thinning: Where 2 seeds were placed per hole, remove the weaker
+    seedling at 10–15 days, leaving one healthy plant per hill.
+
+
+--------------------------------------------------------------------------------
+SECTION 10: CROP GROWTH STAGES
+--------------------------------------------------------------------------------
+
+Understanding growth stages helps farmers apply the right inputs at the
+right time and identify problems early.
+
+  STAGE 1 – GERMINATION (0–10 days after sowing / DAS):
+  - Seeds absorb moisture and sprout.
+  - Seedling emerges with 2 cotyledon (seed) leaves.
+  - Critical need: Adequate soil moisture and warmth.
+  - Watch for: Poor germination, damping-off, seed rot.
+
+  STAGE 2 – SEEDLING STAGE (10–30 DAS):
+  - True leaves begin to form.
+  - Root system develops rapidly.
+  - Critical need: Gap filling, thinning, first weeding.
+  - Watch for: Aphids, jassids, army worms, damping-off.
+
+  STAGE 3 – VEGETATIVE STAGE (30–60 DAS):
+  - Rapid leaf, stem, and branch growth.
+  - Plant height increases significantly.
+  - Critical need: First fertilizer top dressing, irrigation.
+  - Watch for: Aphids, jassids, army worms, leaf feeding insects.
+
+  STAGE 4 – SQUARING STAGE (45–70 DAS):
+  - Flower buds (squares) appear on fruiting branches.
+  - Very sensitive stage – any stress causes square shedding.
+  - Critical need: Adequate nutrition, timely irrigation, pest control.
+  - Watch for: Bollworms, thrips, spider mites.
+
+  STAGE 5 – FLOWERING STAGE (60–90 DAS):
+  - White flowers open; turn pink/red and fall after pollination.
+  - Boll formation begins after pollination.
+  - Critical need: Regular irrigation, balanced fertilization,
+    pest control.
+  - Watch for: Bollworms (most critical stage for bollworm damage),
+    whitefly.
+
+  STAGE 6 – BOLL DEVELOPMENT (80–130 DAS):
+  - Bolls develop and fill with seeds and lint.
+  - Major yield-determining stage.
+  - Critical need: Irrigation, micronutrient spray, pest monitoring.
+  - Watch for: Pink bollworm, target spot, boll rot.
+
+  STAGE 7 – BOLL OPENING AND MATURITY (130–180 DAS):
+  - Bolls split and open naturally, revealing white lint.
+  - Plant begins to senesce (age naturally).
+  - Critical need: Dry weather, no irrigation 3–4 weeks before harvest.
+  - Watch for: Boll rot, staining from rain.
+
+  STAGE 8 – HARVEST (160–200 DAS depending on variety):
+  - Pick bolls when fully open and lint is fluffy and dry.
+  - 3–4 pickings are typically done at 15–20 day intervals.
+  - Avoid picking in wet/dewy conditions to maintain lint quality.
+
+
+--------------------------------------------------------------------------------
+SECTION 11: COMMON PROBLEMS DURING CULTIVATION
+--------------------------------------------------------------------------------
+
+  PROBLEM 1 – POOR GERMINATION:
+  - Causes: Old seeds, treated seeds stored too long, dry/wet soil,
+    sowing too deep, soil crust after rain.
+  - Solution: Use fresh certified seeds, check soil moisture, sow at
+    2–3 cm depth, do gap filling within 10 days.
+
+  PROBLEM 2 – NUTRIENT DEFICIENCY:
+  - Nitrogen deficiency: Yellowing of older leaves starting from bottom.
+    Apply urea top dressing.
+  - Zinc deficiency: Small leaves, bronze/rust discoloration, shortened
+    internodes. Apply zinc sulphate @ 10 kg per acre.
+  - Boron deficiency: Hollow, malformed bolls, poor lint development.
+    Apply borax @ 1 kg per acre or foliar spray.
+
+  PROBLEM 3 – WEED COMPETITION:
+  - Weeds in first 45 days are most harmful (critical weed control period).
+  - Do 2–3 manual weedings at 15, 30, and 45 DAS.
+  - Use pre-emergence herbicide: Pendimethalin 38.7% CS @ 700 ml per
+    acre within 3 days of sowing (before germination).
+  - Use inter-row cultivation with a bullock-drawn cultivator.
+
+  PROBLEM 4 – WATERLOGGING:
+  - Causes: Heavy rain, poor drainage, low-lying areas.
+  - Symptoms: Yellowing, wilting, root rot, plant death.
+  - Solution: Open drainage channels immediately. Form raised beds in
+    waterlogging-prone fields before sowing next season.
+
+  PROBLEM 5 – DROUGHT STRESS:
+  - Symptoms: Leaf rolling, wilting in afternoon, premature boll/square
+    shedding, poor boll development.
+  - Solution: Irrigate immediately. Mulching between rows helps retain
+    soil moisture. Foliar spray of 1% Potassium Nitrate can help.
+
+  PROBLEM 6 – BOLL SHEDDING:
+  - Causes: Extreme heat, drought, excess water, pest damage (bollworm),
+    nutrient deficiency, or disease.
+  - Solution: Identify cause first (pest vs environmental stress), then
+    take appropriate action. Ensure regular irrigation and balanced
+    nutrition.
+
+
+--------------------------------------------------------------------------------
+SECTION 12: BEST FARMING PRACTICES
+--------------------------------------------------------------------------------
+
+  1. SOIL TESTING EVERY SEASON:
+     Get your soil tested before every season. Apply fertilizers and
+     soil amendments based on the test result. This saves money and
+     improves yield.
+
+  2. USE CERTIFIED SEEDS ONLY:
+     Never use uncertified or saved Bt hybrid seeds. Certified seeds
+     guarantee germination percentage, varietal purity, and freedom
+     from seed-borne diseases.
+
+  3. FOLLOW THE RECOMMENDED FERTILIZER SCHEDULE:
+     General schedule for irrigated Bt cotton per acre:
+     - FYM / Compost     : 4–5 tonnes at land preparation
+     - Nitrogen (N)      : 40–50 kg (split into 3 applications)
+     - Phosphorus (P2O5) : 20–25 kg (full dose at sowing)
+     - Potash (K2O)      : 20–25 kg (full dose at sowing)
+     - First top dress: At 30 DAS with 1/3 nitrogen.
+     - Second top dress: At 60 DAS (flowering stage) with 1/3 nitrogen.
+     - Avoid excess nitrogen – it attracts pests and causes boll shedding.
+
+  4. INTEGRATED PEST MANAGEMENT (IPM):
+     - Monitor fields twice a week from germination to boll opening.
+     - Use pheromone traps and sticky traps for early detection.
+     - Spray only when Economic Threshold Level (ETL) is reached.
+     - Use biological controls first; chemicals only when necessary.
+     - Rotate chemical groups to prevent pest resistance.
+
+  5. PROPER IRRIGATION MANAGEMENT:
+     Critical irrigation stages (do not miss these):
+     - At sowing (if dry)
+     - 10–15 DAS (seedling establishment)
+     - 45–50 DAS (before squaring)
+     - 60–70 DAS (flowering – most critical)
+     - 90–100 DAS (boll filling)
+     Stop irrigation 3–4 weeks before final harvest for good boll opening.
+     Drip irrigation saves 30–40% water and increases yield by 20–30%.
+
+  6. INTERCROPPING:
+     - Cotton + Cowpea (between rows): Cowpea fixes nitrogen and
+       provides income while also attracting beneficial insects.
+     - Cotton + Soybean: Common in Maharashtra (provides extra income).
+     - Cotton + Maize (border crop): Acts as a trap crop for bollworms.
+     These practices also make efficient use of land and reduce risk.
+
+
+--------------------------------------------------------------------------------
+SECTION 13: TIPS FOR HIGHER YIELD
+--------------------------------------------------------------------------------
+
+  TIP 1 – SOW EARLY:
+  Early sown cotton (especially in April–May under irrigation) produces
+  more bolls, escapes peak pest pressure, and gives higher lint yield.
+  Target to complete sowing by May 31 in irrigated areas.
+
+  TIP 2 – DO NOT SKIP SEED TREATMENT:
+  Seed treatment with fungicide + insecticide + biofertilizer costs very
+  little but protects the crop for the first 30–40 days. Healthy seedlings
+  become strong plants that produce more bolls.
+
+  TIP 3 – APPLY MICRONUTRIENTS:
+  Zinc and Boron are critical for boll development and lint quality. Apply:
+  - Zinc Sulphate @ 10 kg per acre in soil at land preparation.
+  - Borax @ 1 kg per acre in soil.
+  - Foliar spray of 0.5% Zinc Sulphate at squaring and flowering stage.
+  - Foliar spray of 0.1% Boric Acid at flowering stage.
+
+  TIP 4 – USE DRIP IRRIGATION:
+  Drip irrigation with fertigation (fertilizer through drip) increases
+  yield by 25–35% compared to flood irrigation, while saving water,
+  reducing weed growth, and improving boll quality.
+
+  TIP 5 – APPLY GROWTH REGULATORS (if needed):
+  - Mepiquat chloride (Pix) @ 1–1.5 ml per litre of water applied at
+    flowering stage reduces excessive vegetative growth (squaring/branching)
+    and improves boll set in varieties showing excessive leaf growth.
+
+  TIP 6 – PRACTICE CLEAN FIELD HYGIENE:
+  - Remove all crop stubble and roots after harvest. This destroys
+    overwintering pests (Pink Bollworm pupae in stubble) and disease spores.
+  - Deep plough immediately after harvest and before the next season.
+
+  TIP 7 – TIMELY AND PROPER PICKING:
+  - Pick bolls only when fully and completely open – not before.
+  - Pick in dry conditions (morning after dew dries).
+  - Separate clean lint from contaminated or stained lint.
+  - Store in a clean, dry place on raised platforms – not on the ground.
+  - Use clean bags – avoid coloured polythene bags that contaminate lint.
+
+  TIP 8 – MAINTAIN A FIELD DIARY:
+  Record the date of sowing, fertilizer applications, pest observations,
+  spray dates and products used, rainfall, and yield per picking.
+  This record helps you make better decisions next season and is also
+  required for government schemes and crop insurance claims.
+
+  TIP 9 – USE GOVERNMENT SCHEMES:
+  - Register crops under Pradhan Mantri Fasal Bima Yojana (PMFBY) for
+    crop insurance before the deadline.
+  - Avail subsidies for drip irrigation under PM Krishi Sinchai Yojana.
+  - Take soil health cards and follow their recommendations.
+  - Get free extension advisory from Krishi Vigyan Kendras (KVKs) and
+    state agriculture departments.
+
+  TIP 10 – CONTACT KRUSHHIBANDHU FOR ADVICE:
+  If you observe unusual symptoms, pest problems, or crop stress at any
+  stage of cotton cultivation, consult the KrushiBandhu AI assistant for
+  timely, location-specific, and crop-stage-specific guidance in your
+  local language.
+
+

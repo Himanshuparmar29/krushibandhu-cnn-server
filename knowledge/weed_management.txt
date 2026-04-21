@@ -1,0 +1,497 @@
+================================================================================
+        KRUSHIHANDHU – WEED MANAGEMENT GUIDE FOR COTTON FARMING
+        Crop: Cotton (Gossypium hirsutum and related species)
+        Prepared by: Agronomy and Crop Protection Division
+        Purpose: RAG System Knowledge Document for AI Farming Assistant
+        Language: Simple English (Ready for translation to Gujarati and Hindi)
+================================================================================
+
+================================================================================
+SECTION 1: WHAT ARE WEEDS?
+================================================================================
+
+Weeds are unwanted plants that grow in your cotton field without being planted
+by you. They grow on their own — from seeds left in the soil, blown in by wind,
+carried by water, birds, or animals, or brought in with farm tools and machinery.
+
+Weeds are a problem because they are STRONG survivors. They germinate fast, grow
+quickly, and produce thousands of seeds that remain alive in the soil for many
+years. A single wild plant like Parthenium (congress grass) can produce over
+25,000 seeds in one season — all of which can sprout in future crops.
+
+THE MOST IMPORTANT FACT ABOUT WEEDS AND COTTON:
+  The first 45–60 days after cotton germination are the most critical period.
+  Weeds that grow during this window cause the MAXIMUM damage to yield.
+  Studies show that uncontrolled weeds in the first 6–8 weeks can reduce
+  cotton yield by 40–80%. After this period, the cotton plant grows taller
+  and shades the ground, naturally suppressing most weeds.
+
+  This critical window is called the "Critical Period of Weed Competition."
+  Keeping the field weed-free during this period is your single most important
+  weed management task.
+
+TYPES OF WEEDS BY LIFE CYCLE:
+
+  Type              | Description                        | Examples
+  ----------------- | ---------------------------------- | -------------------------
+  Annual weeds      | Complete life in one season        | Parthenium, Wild oat
+  Perennial weeds   | Survive many years, regrow from    | Nutgrass (Cyperus),
+                    | roots or underground tubers        | Bermuda grass (Doob)
+  Seasonal weeds    | Appear during specific season      | Most monsoon weeds
+
+TYPES OF WEEDS BY APPEARANCE:
+
+  Type              | Description                        | Example
+  ----------------- | ---------------------------------- | -----------------------
+  Grassy weeds      | Narrow leaves, grass-like stems    | Wild oat, Barnyard grass
+  Broadleaf weeds   | Wide, flat leaves like regular     | Parthenium, Pigweed,
+                    | plants                             | Black nightshade
+  Sedges            | Triangular stems, grow in moist    | Purple nutsedge (Motha)
+                    | soil                               | Yellow nutsedge
+
+================================================================================
+SECTION 2: COMMON WEEDS IN COTTON FIELDS
+================================================================================
+
+The following weeds are most commonly found in cotton-growing regions of India,
+particularly in Gujarat, Maharashtra, Telangana, and Madhya Pradesh:
+
+BROADLEAF WEEDS:
+
+  ► PARTHENIUM (Congress Grass / Gajar Ghas):
+    One of the most aggressive and damaging weeds in India. Grows very fast
+    and produces thousands of seeds. Also causes skin allergies and breathing
+    problems in humans and animals.
+    Appearance: Whitish flowers, deeply lobed leaves, rough texture.
+
+  ► PIGWEED (Chaulai / Amaranthus spp.):
+    Fast-growing, tall broadleaf weed. Competes strongly for nitrogen and
+    water. Common in almost all cotton-growing states.
+    Appearance: Broad, oval green leaves, red to green fleshy stem.
+
+  ► BLACK NIGHTSHADE (Makoi / Solanum nigrum):
+    Grows rapidly in early season. Hosts several cotton pests and diseases
+    even after the cotton crop is over.
+    Appearance: Small white flowers, small round berries (green turning black).
+
+  ► COMMON PURSLANE (Loni / Portulaca oleracea):
+    Low-growing, fleshy-leaved weed. Spreads flat on the ground, competes
+    with young cotton seedlings.
+    Appearance: Small, thick rounded leaves, reddish stems.
+
+  ► WILD JUTE / BROOM WEED (Corchorus spp.):
+    Tall growing, competes strongly with cotton for light.
+
+GRASSY WEEDS:
+
+  ► BARNYARD GRASS (Jhangra / Echinochloa crus-galli):
+    Very fast-growing grass weed that resembles young paddy. Major weed in
+    monsoon cotton. Competes aggressively for water and nutrients.
+    Appearance: Flat grass-like leaves, multi-branched seed head.
+
+  ► WILD OAT (Avena fatua):
+    Common in wheat-cotton rotation areas. Very competitive.
+    Appearance: Tall grass with drooping seed heads.
+
+  ► CROWFOOT GRASS (Eleusine indica):
+    Low-growing, tough grass that spreads rapidly. Hard to remove by hand.
+    Appearance: Star-shaped seed head at the top of the stem.
+
+SEDGE WEEDS:
+
+  ► PURPLE NUTSEDGE (Motha / Cyperus rotundus):
+    One of the most difficult weeds to control in the world. Has underground
+    tubers (nuts) that survive even after the above-ground plant is removed.
+    Can regrow from tubers even if pulled out or hoed.
+    Appearance: Triangular stem, purple-brown seed head, dark green narrow
+    leaves.
+
+  ► YELLOW NUTSEDGE (Cyperus esculentus):
+    Similar to purple nutsedge but with yellow-brown seed heads.
+    Also spreads through underground tubers.
+
+================================================================================
+SECTION 3: DAMAGE CAUSED BY WEEDS
+================================================================================
+
+Weeds damage cotton in many ways. Understanding how weeds harm your crop helps
+you take weed management seriously.
+
+  ► COMPETITION FOR NUTRIENTS:
+    Weeds absorb the same nitrogen, phosphorus, and potassium from the soil
+    that you applied for your cotton plants. Studies show that dense weeds
+    can absorb 30–50% of the fertilizer you apply — your money, going into
+    weeds rather than cotton bolls.
+
+  ► COMPETITION FOR WATER:
+    Weeds absorb soil moisture, especially during dry spells. This stresses
+    cotton plants and causes flower and boll drop. In rainfed cotton areas,
+    weed water competition is especially damaging.
+
+  ► COMPETITION FOR SUNLIGHT:
+    Tall weeds shade young cotton plants, reducing photosynthesis (food
+    making). Shaded cotton plants grow slowly, produce fewer branches, and
+    ultimately fewer bolls.
+
+  ► COMPETITION FOR SPACE:
+    Dense weeds crowd cotton roots and reduce the space available for proper
+    root development. Restricted roots mean the plant cannot absorb enough
+    water and nutrients even if they are present in the soil.
+
+  ► SHELTER FOR PESTS AND DISEASES:
+    Many weeds act as alternative hosts for cotton pests and diseases:
+    - Black nightshade hosts aphids, whitefly, and bollworm moths.
+    - Parthenium hosts thrips and mites.
+    - Grassy weeds shelter stem borers.
+    These pests survive on weeds and then move to cotton when populations grow.
+
+  ► INTERFERENCE WITH HARVESTING:
+    Tall, tangled weeds make manual and mechanical cotton picking very
+    difficult. They slow harvesting speed and increase labor costs.
+    Weed seeds can also mix with cotton fiber during harvest, reducing
+    fiber quality and market price.
+
+  ► YIELD LOSS DATA:
+    Uncontrolled weeds during the first 45–60 days can reduce cotton yield by:
+    - Moderate weed pressure: 25–40% yield loss
+    - Heavy weed pressure: 50–80% yield loss
+    This translates to thousands of rupees of loss per acre per season.
+
+================================================================================
+SECTION 4: CULTURAL WEED CONTROL
+================================================================================
+
+Cultural weed control means using smart farming practices to prevent weeds from
+establishing and growing in the first place. These are low-cost, preventive
+strategies that every farmer should use as the first line of defense.
+
+  ► USE WEED-FREE CERTIFIED SEEDS:
+    Cheap or uncertified seeds often contain weed seeds mixed in with cotton
+    seeds. Always buy certified cotton seeds from reliable sources with proper
+    packaging and quality seals.
+
+  ► TIMELY PLANTING:
+    Plant cotton at the recommended time for your region. Timely-planted cotton
+    germinates uniformly and covers the ground faster, naturally shading and
+    suppressing weed growth. Late-planted cotton allows weeds to establish
+    before the crop.
+
+  ► OPTIMUM PLANT SPACING:
+    Maintain recommended spacing (90–100 cm between rows, 45–60 cm between
+    plants). Proper spacing allows the cotton canopy to close over the ground
+    sooner, blocking sunlight from reaching weed seeds and slowing weed growth.
+
+  ► CLEAN IRRIGATION WATER:
+    Many weed seeds travel through irrigation water from canals and rivers.
+    Use screens or filters on irrigation inlet points where possible, or allow
+    water to settle in a small pit before entering the field.
+
+  ► CLEAN FARM TOOLS AND MACHINERY:
+    Weed seeds cling to tillers, cultivators, and harvesting equipment.
+    Clean tools thoroughly after working in weed-infested areas before moving
+    to a weed-free field.
+
+  ► CLEAN FARMYARD MANURE (FYM):
+    Raw (uncomposted) farmyard manure contains thousands of weed seeds from
+    animal feed and dung. Always use well-composted manure where seeds have
+    been killed by heat generated during composting (minimum 60–70 days old
+    compost).
+
+  ► SUMMER DEEP PLOUGHING:
+    Deep ploughing the field in summer (April–May) before cotton planting
+    exposes weed seeds and tubers to hot sunlight, drying and killing them.
+    This is especially effective against nutsedge tubers and perennial weeds.
+    Deep summer ploughing can reduce weed pressure in the following season
+    by 30–50%.
+
+  ► CROP ROTATION:
+    Rotating cotton with crops like wheat, chickpea, or sorghum allows
+    different weed control methods to be used, targeting weeds that thrive
+    only in cotton-like conditions. Wheat, in particular, grows dense enough
+    to smother most broadleaf weeds.
+
+  ► COVER CROPPING AND MULCHING:
+    After cotton harvest, sow a cover crop (cowpea, moong) immediately to
+    suppress weeds and protect soil. During the cotton season, apply a
+    5–8 cm layer of dry straw or sugarcane bagasse between plant rows as
+    mulch. Mulch blocks sunlight from reaching the soil surface, preventing
+    weed seed germination. A good mulch layer can reduce weed emergence by
+    60–70%.
+
+  ► INTERCROPPING:
+    Growing a fast-establishing intercrop like moong bean or cowpea between
+    cotton rows fills the empty ground quickly and suppresses weed growth
+    naturally, while also providing the farmer with additional income.
+
+================================================================================
+SECTION 5: MECHANICAL WEED CONTROL
+================================================================================
+
+Mechanical weed control means physically removing or destroying weeds using
+tools, implements, or manual labor. It is the most widely used weed control
+method in Indian cotton farming.
+
+  ► HAND WEEDING:
+    Removing weeds by hand is the oldest and most thorough method.
+    - First weeding: 15–20 days after sowing (DAS)
+    - Second weeding: 35–45 DAS
+    - Third weeding (if needed): 55–65 DAS
+    Hand weeding is labor-intensive but very effective and safe.
+    For small and medium landholdings, hand weeding is usually the most
+    practical approach.
+    IMPORTANT: Always remove weeds BEFORE they flower and set seed.
+    A weed that flowers and sets seed multiplies the problem for future seasons.
+
+  ► WHEEL HOE / HAND HOE (KHURPI):
+    Using a hand hoe (khurpi) or wheel hoe to cut weeds just below the soil
+    surface is faster than hand weeding and effective for inter-row weeding.
+    Hoe between rows after each irrigation or rainfall, when soil is moist
+    and soft — this makes hoeing easier and more effective.
+
+  ► BULLOCK-DRAWN OR TRACTOR CULTIVATOR:
+    For larger fields, inter-row cultivation using a bullock-drawn or
+    tractor-mounted cultivator (dust mulcher or blade harrow) is efficient
+    and fast.
+    - First cultivation: 20–25 DAS
+    - Second cultivation: 40–45 DAS
+    Cultivator passes cut weed roots, loosen soil, and also improve water
+    infiltration into the soil — giving you double benefit.
+    NOTE: Cultivator passes only work between rows. Within-row weeds (close
+    to the plant base) must be removed by hand.
+
+  ► ROTAVATOR / POWER TILLER:
+    On larger farms, a power tiller or rotavator between cotton rows gives
+    faster and deeper weed control. Effective against both grassy and
+    broadleaf weeds.
+
+  ► STALE SEEDBED TECHNIQUE:
+    Prepare the field 15–20 days before cotton planting. Give a light
+    irrigation to encourage weed seeds in the top soil layer to germinate.
+    Once the weeds emerge (as small seedlings), destroy them with a shallow
+    cultivation or light flame weeding before planting cotton.
+    This destroys the first flush of weeds before your crop is even in the
+    ground — significantly reducing early-season weed pressure.
+
+================================================================================
+SECTION 6: CHEMICAL WEED CONTROL (HERBICIDES)
+================================================================================
+
+Herbicides are chemical products that kill or suppress weeds. They save labor
+costs when fields are large or labor is unavailable. However, they must be used
+carefully — the wrong herbicide, wrong dose, or wrong timing can damage your
+cotton crop or leave residues in the soil.
+
+ALWAYS follow these rules before using herbicides:
+  - Read the label carefully before buying or using any herbicide.
+  - Use the correct dose — more is not better and can damage the crop.
+  - Use only herbicides registered for use in cotton in India.
+  - Calibrate your sprayer to ensure even application.
+  - Wear protective clothing, gloves, and a mask while spraying.
+
+HERBICIDE CATEGORIES:
+
+  A) PRE-EMERGENCE HERBICIDES
+     Applied AFTER sowing but BEFORE cotton seeds germinate (within 2–3 days
+     of planting). They form a chemical barrier in the top soil layer that
+     kills weed seeds as they germinate.
+
+  Herbicide Name       | Dose per Acre   | Target Weeds
+  -------------------- | --------------- | -----------------------------------
+  Pendimethalin 30% EC | 1.0–1.3 liters  | Grassy + broadleaf annual weeds
+  Trifluralin 48% EC   | 400–500 ml      | Grassy + some broadleaf weeds
+  Diuron 80% WP        | 400–500 grams   | Broadleaf + some grassy weeds
+
+     HOW TO APPLY: Mix the required dose in 200 liters of water per acre.
+     Spray uniformly on moist soil immediately after sowing. Do NOT disturb
+     soil after spraying as this breaks the chemical barrier.
+
+  B) POST-EMERGENCE HERBICIDES
+     Applied AFTER weeds have already emerged (15–25 DAS) when weeds are
+     small (2–4 leaf stage). More effective on young weeds.
+
+  Herbicide Name           | Dose per Acre  | Target Weeds
+  ------------------------ | -------------- | --------------------------------
+  Quizalofop-ethyl 5% EC   | 400 ml         | Grassy weeds only
+  Propaquizafop 10% EC     | 300–400 ml     | Grassy weeds only
+  Pyrithiobac sodium 10% EC| 200–250 ml     | Broadleaf + sedge weeds
+  Glyphosate 41% SL        | 800 ml–1 liter | ALL weeds (non-selective —
+                           |                | USE WITH EXTREME CAUTION,
+                           |                | directed spray only, avoid
+                           |                | contact with cotton plant)
+
+     ⚠ CRITICAL WARNINGS FOR POST-EMERGENCE HERBICIDE USE:
+     - NEVER spray glyphosate or paraquat on or near cotton leaves or stems.
+       These are non-selective and will kill cotton plants too.
+     - Use a hood or shield on the sprayer nozzle for directed spraying
+       between rows to protect the cotton plant.
+     - Do not spray herbicides in strong wind.
+     - Do not spray when cotton is under water or heat stress.
+     - After spraying, do not irrigate for at least 24–48 hours.
+
+  C) SPECIAL NOTE ON NUTSEDGE (MOTHA) CONTROL:
+     Purple and yellow nutsedge are very difficult to control with regular
+     herbicides because of their underground tubers. The best approach is:
+     - Repeat deep summer ploughing to expose and dry out tubers.
+     - Manual removal during initial weedings (pull out entire plant
+       including tubers — do not just cut the top growth).
+     - Halosulfuron methyl 75% WG (10 grams per acre) is effective against
+       nutsedge. Consult your agriculture officer before use.
+
+================================================================================
+SECTION 7: INTEGRATED WEED MANAGEMENT (IWM)
+================================================================================
+
+Integrated Weed Management means using a combination of cultural, mechanical,
+biological, and chemical methods together in a planned, season-long approach.
+No single method alone gives complete weed control — but combining methods
+wisely gives the best results at the lowest cost.
+
+THE IWM APPROACH FOR COTTON:
+
+  BEFORE PLANTING:
+  ► Deep summer ploughing (April–May) to kill weed seeds and tubers.
+  ► Prepare a stale seedbed — irrigate, allow weeds to germinate, then
+    destroy them with cultivation before sowing cotton.
+  ► Apply well-composted FYM only (not raw manure with weed seeds).
+
+  AT PLANTING:
+  ► Use certified, weed-seed-free cotton seeds.
+  ► Apply a pre-emergence herbicide (Pendimethalin) within 2–3 days of
+    sowing on moist soil.
+  ► Apply mulch between rows after planting to block weed germination.
+
+  EARLY SEASON (15–45 DAS — THE CRITICAL PERIOD):
+  ► First hand weeding or hoeing at 15–20 DAS.
+  ► Second hand weeding or tractor cultivation at 35–45 DAS.
+  ► If grassy weeds persist after hand weeding, apply a post-emergence
+    graminicide (grass killer) like Quizalofop at 15–20 DAS.
+
+  MID SEASON (45–75 DAS):
+  ► Third hand weeding or cultivation at 55–65 DAS if weed pressure
+    continues.
+  ► Cotton canopy will begin to close at this stage — naturally suppressing
+    further weed growth.
+
+  LATE SEASON (75+ DAS):
+  ► Minimal weeding needed once the cotton canopy closes.
+  ► Remove any tall, flowering weeds before they shed seeds into the soil.
+
+  AFTER HARVEST:
+  ► Destroy or compost all weed material from the field.
+  ► Do NOT allow weeds to flower and set seed before the field is cleared.
+  ► Deep plough the field immediately after harvest.
+
+IWM BENEFITS:
+  - Reduces herbicide use by 40–60% compared to relying on chemicals alone.
+  - Breaks weed life cycles across seasons.
+  - Lowers weed seed bank in the soil over 2–3 years of consistent practice.
+  - Reduces input cost while maintaining or improving cotton yield.
+  - Prevents herbicide resistance in weed populations.
+
+================================================================================
+SECTION 8: BEST PRACTICES FOR FARMERS
+================================================================================
+
+Here are the most practical, field-tested tips for successful weed management
+in cotton farming:
+
+  1. WEED EARLY AND WEED OFTEN IN THE FIRST 45 DAYS:
+     This is the single most important rule. Every extra day you delay
+     weeding in the first 45 days costs you yield. Set aside labor and
+     budget for at least two weedings in this period.
+
+  2. NEVER LET WEEDS FLOWER IN YOUR FIELD:
+     A weed that flowers adds thousands of seeds to your soil for future
+     seasons. Remove or cut weeds before they can flower and set seed,
+     even if you cannot remove all weeds completely.
+
+  3. DO SUMMER DEEP PLOUGHING EVERY YEAR:
+     This one field preparation step dramatically reduces weed pressure
+     in the next cotton season. It is especially effective against nutsedge.
+
+  4. USE MULCH BETWEEN ROWS:
+     Applying dry straw or other organic mulch between cotton rows after
+     planting is one of the best investments you can make. It controls weeds,
+     saves water, and adds organic matter to the soil — three benefits at once.
+
+  5. CALIBRATE YOUR SPRAYER BEFORE HERBICIDE APPLICATION:
+     Check that your sprayer delivers the correct volume per area. An
+     uncalibrated sprayer can apply too much (crop damage) or too little
+     (poor weed control).
+
+  6. KEEP FIELD BORDERS AND BUNDS CLEAN:
+     Weeds on field borders and bunds produce seeds that blow into your
+     field. Cut or remove weeds on field boundaries before they flower,
+     every season.
+
+  7. ROTATE HERBICIDE GROUPS:
+     If you use herbicides, rotate between different chemical groups each
+     season. Using the same herbicide repeatedly selects for resistant weeds.
+
+  8. DO NOT BURN WEEDS IN THE FIELD:
+     Burning weeds is fast but harmful. It destroys soil organic matter,
+     kills beneficial soil organisms, and releases air pollutants. Compost
+     or bury weed material instead.
+
+  9. USE INTERCROPPING AS A WEED SUPPRESSION STRATEGY:
+     A quick-growing intercrop like moong bean sown between cotton rows
+     covers the ground fast, suppressing weeds naturally while also
+     generating additional income.
+
+  10. MAINTAIN RECORDS OF WEED PROBLEMS:
+      Note which weeds are most common in your field, which areas are worst,
+      and which control methods worked best. This record helps you plan more
+      effectively for the next season.
+
+================================================================================
+QUICK REFERENCE: WEED MANAGEMENT CALENDAR FOR COTTON
+================================================================================
+
+  Timing              | Recommended Action
+  ------------------- | -------------------------------------------------------
+  Summer (April–May)  | Deep plough to kill weed seeds and nutsedge tubers
+  Pre-sowing          | Stale seedbed preparation — germinate + destroy weeds
+  At sowing           | Apply pre-emergence herbicide within 2–3 days of sowing
+  15–20 DAS           | First hand weeding / hoeing between rows
+  20–25 DAS           | First tractor/bullock cultivation between rows
+  35–45 DAS           | Second hand weeding (CRITICAL PERIOD — do not skip)
+  40–45 DAS           | Second tractor/bullock cultivation between rows
+  55–65 DAS           | Third weeding if needed
+  Throughout season   | Remove flowering weeds before they shed seeds
+  After harvest       | Clear field, deep plough, remove all weed material
+
+================================================================================
+COMMON WEEDS AND THEIR BEST CONTROL METHOD
+================================================================================
+
+  Weed                    | Best Control Method
+  ----------------------- | --------------------------------------------------
+  Parthenium (Gajar Ghas) | Hand removal before flowering + Pendimethalin
+  Pigweed (Amaranthus)    | Hand weeding + Pendimethalin pre-emergence
+  Purple Nutsedge (Motha) | Deep summer ploughing + Halosulfuron herbicide
+  Barnyard Grass          | Quizalofop post-emergence + hand hoeing
+  Wild Oat                | Quizalofop post-emergence
+  Black Nightshade        | Hand weeding + Pendimethalin pre-emergence
+  Common Purslane         | Hand weeding + mulching
+
+================================================================================
+END OF KRUSHIHANDHU WEED MANAGEMENT GUIDE FOR COTTON FARMING
+================================================================================
+
+DOCUMENT SUMMARY
+----------------
+This guide covers weed management in cotton farming across 8 sections:
+1. Definition of weeds, their types, and the critical competition period
+2. Common weeds in Indian cotton fields — broadleaf, grassy, and sedge
+3. How weeds damage cotton — nutrients, water, sunlight, pests, yield loss
+4. Cultural control — clean seeds, timely planting, mulching, crop rotation
+5. Mechanical control — hand weeding, hoeing, cultivator, stale seedbed
+6. Chemical control — pre and post-emergence herbicides with doses and safety
+7. Integrated Weed Management — season-long combined strategy
+8. Best practices and field tips for farmers
+
+PREPARED FOR: KrushiBandhu AI Farming Assistant
+INTENDED USE: RAG Knowledge Base for Weed Management Advisory
+LANGUAGE: Simple English (Ready for translation to Gujarati and Hindi)
+VERSION: 1.0
+================================================================================

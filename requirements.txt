@@ -1,0 +1,7 @@
+numpy==1.26.4
+tensorflow==2.15.0
+flask
+flask-cors
+opencv-python-headless
+pillow
+gunicorn
