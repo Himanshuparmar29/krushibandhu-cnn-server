@@ -1,10 +1,13 @@
 """
-api_server.py — KrushiBandhu Disease Detection Backend
-───────────────────────────────────────────────────────
+api_server.py — KrushiBandhu Disease Detection Backend (TFLite)
+───────────────────────────────────────────────────────────────
 Handles:
-  • POST /predict   — leaf disease prediction (CNN model)
+  • POST /predict   — leaf disease prediction (TFLite model)
   • POST /followup  — farmer follow-up question (LLM)
   • GET  /health    — health check
+
+Uses tflite-runtime (~30 MB RAM) instead of full TensorFlow (~1.7 GB)
+so it can run on Render free tier (512 MB RAM).
 
 Auth is handled by Supabase (client-side). This server is ML-only.
 
@@ -19,25 +22,39 @@ Deploy (Render.com / Railway):
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 import base64, tempfile, os, traceback, re
+import numpy as np
 import cv2
 
 # ── Import prediction pipeline ────────────────────────────────────────────────
-from predict import preprocess_image, predict as run_predict
+from predict_tflite import preprocess_image, predict as run_predict
 from crop_doctor import ask_crop_doctor
-import tensorflow as tf
 
 app = Flask(__name__)
 CORS(app)
 
-# ── Load ML model at startup (module level — works with Gunicorn) ─────────────
-print("Loading CNN model...")
+# ── Load TFLite model at startup ──────────────────────────────────────────────
+TFLITE_PATH = "model/model_final.tflite"
+CLASS_NAMES_PATH = "class_names.txt"
+
+print("Loading TFLite model...")
 try:
-    MODEL = tf.keras.models.load_model("model/model_final.keras")
-    NAMES = open("class_names.txt").read().splitlines()
-    print(f"✓ Model loaded — {len(NAMES)} classes: {NAMES}")
+    # Try tflite-runtime first (deployed), fall back to tf.lite (local dev)
+    try:
+        import tflite_runtime.interpreter as tflite
+    except ImportError:
+        import tensorflow.lite as tflite
+
+    INTERPRETER = tflite.Interpreter(model_path=TFLITE_PATH)
+    INTERPRETER.allocate_tensors()
+    INPUT_DETAILS  = INTERPRETER.get_input_details()
+    OUTPUT_DETAILS = INTERPRETER.get_output_details()
+    NAMES = open(CLASS_NAMES_PATH).read().splitlines()
+    print(f"Model loaded -- {len(NAMES)} classes: {NAMES}")
 except Exception as e:
-    print(f"✗ Model load failed: {e}")
-    MODEL = None
+    print(f"Model load failed: {e}")
+    INTERPRETER = None
+    INPUT_DETAILS = None
+    OUTPUT_DETAILS = None
     NAMES = []
 
 # ── Advisory text parser ───────────────────────────────────────────────────────
@@ -45,7 +62,7 @@ _SECTION_PATTERNS = [
     ("what_is_happening",     r"WHAT IS HAPPENING"),
     ("why_it_happened",       r"WHY THIS HAPPENED"),
     ("immediate_action",      r"IMMEDIATE ACTION"),
-    ("organic_remedy",        r"ORGANIC\s*/?\\s*LOW[- ]COST REMEDY|ORGANIC REMEDY"),
+    ("organic_remedy",        r"ORGANIC\s*/?\s*LOW[- ]COST REMEDY|ORGANIC REMEDY"),
     ("prevention",            r"HOW TO PREVENT|PREVENTION"),
     ("when_to_see_specialist",r"WHEN TO SEE A SPECIALIST|SPECIALIST"),
 ]
@@ -79,7 +96,7 @@ def _parse_advisory(text: str) -> dict:
 
 @app.route("/predict", methods=["POST"])
 def predict_route():
-    if MODEL is None:
+    if INTERPRETER is None:
         return jsonify({"error": "Model not loaded"}), 503
 
     try:
@@ -105,7 +122,9 @@ def predict_route():
 
         # Run ML pipeline
         tensor, _, seg, mask = preprocess_image(bgr)
-        pred_class, conf, scores = run_predict(MODEL, tensor, NAMES)
+        pred_class, conf, scores = run_predict(
+            INTERPRETER, INPUT_DETAILS, OUTPUT_DETAILS, tensor, NAMES
+        )
 
         # Get advisory from LLM
         advisory_text = ask_crop_doctor(pred_class, conf, language)
@@ -160,14 +179,14 @@ def followup_route():
 @app.route("/health", methods=["GET"])
 def health():
     return jsonify({
-        "status":  "ok" if MODEL is not None else "degraded",
-        "model":   "loaded" if MODEL is not None else "not loaded",
+        "status":  "ok" if INTERPRETER is not None else "degraded",
+        "model":   "loaded" if INTERPRETER is not None else "not loaded",
         "classes": NAMES,
     })
 
 
 if __name__ == "__main__":
     print("\n" + "="*50)
-    print("  KrushiBandhu Disease Detection API")
+    print("  KrushiBandhu Disease Detection API (TFLite)")
     print("="*50)
     app.run(host="0.0.0.0", port=5000, debug=False, threaded=True)

@@ -11,13 +11,7 @@ LANGUAGE_MAP = {
 }
 
 _groq_key = os.environ.get("GROQ_API_KEY")
-if not _groq_key:
-    raise EnvironmentError(
-        "GROQ_API_KEY environment variable is not set.\n"
-        "Local:  set GROQ_API_KEY=gsk_...\n"
-        "Render: add it in Environment Variables dashboard."
-    )
-client = Groq(api_key=_groq_key)
+client = Groq(api_key=_groq_key, timeout=25.0) if _groq_key else None
 
 
 # ───────────────────────────────
@@ -34,6 +28,38 @@ def build_context(disease_name):
         context_parts.append(doc["text"])
 
     return "\n\n---\n\n".join(context_parts)
+
+
+def _fallback_advisory(disease_name, confidence, language="english"):
+    lang = LANGUAGE_MAP.get(language.lower(), "English")
+    confidence_pct = f"{confidence*100:.1f}%"
+    return (
+        f"WHAT IS HAPPENING\n"
+        f"The crop likely shows symptoms of {disease_name}. The model confidence is {confidence_pct}.\n\n"
+        f"WHY THIS HAPPENED\n"
+        f"Common reasons include humid weather, dense canopy, poor airflow, and delayed field scouting.\n\n"
+        f"IMMEDIATE ACTION\n"
+        f"1) Remove heavily affected leaves.\n"
+        f"2) Keep irrigation balanced and avoid water stress.\n"
+        f"3) Follow label-approved control measures recommended for {disease_name}.\n\n"
+        f"ORGANIC REMEDY\n"
+        f"Use neem-based spray or bio-control options suitable for local extension guidance.\n\n"
+        f"PREVENTION\n"
+        f"Use clean planting material, improve spacing, monitor weekly, and rotate control methods.\n\n"
+        f"WHEN TO SEE A SPECIALIST\n"
+        f"If spread continues after 3-5 days or more than 20% of plants are affected, contact an agronomist immediately.\n\n"
+        f"(Fallback advisory generated because live AI response was unavailable. Language requested: {lang}.)"
+    )
+
+
+def _fallback_followup(question, disease_name, language="english"):
+    lang = LANGUAGE_MAP.get(language.lower(), "English")
+    return (
+        f"I could not reach the live AI advisor right now. Based on the detected condition ({disease_name}), "
+        f"please continue field scouting, remove badly affected leaves, and use locally approved treatment protocols. "
+        f"If symptoms are spreading quickly, consult your nearest agriculture extension officer. "
+        f"(Language requested: {lang})"
+    )
 
 
 # ───────────────────────────────
@@ -99,13 +125,19 @@ def ask_crop_doctor(disease_name, confidence, language="english"):
 
     prompt = build_prompt(disease_name, confidence, language, context)
 
-    response = client.chat.completions.create(
-        model=MODEL,
-        messages=[{"role": "user", "content": prompt}],
-        max_tokens=1024
-    )
+    if client is None:
+        return _fallback_advisory(disease_name, confidence, language)
 
-    return response.choices[0].message.content
+    try:
+        response = client.chat.completions.create(
+            model=MODEL,
+            messages=[{"role": "user", "content": prompt}],
+            max_tokens=1024,
+        )
+        content = response.choices[0].message.content
+        return content or _fallback_advisory(disease_name, confidence, language)
+    except Exception:
+        return _fallback_advisory(disease_name, confidence, language)
 
 
 # ───────────────────────────────
@@ -132,10 +164,16 @@ Farmer question:
 Answer in simple {lang}. Give practical advice farmers can follow.
 """
 
-    response = client.chat.completions.create(
-        model=MODEL,
-        messages=[{"role": "user", "content": prompt}],
-        max_tokens=512
-    )
+    if client is None:
+        return _fallback_followup(question, disease_name, language)
 
-    return response.choices[0].message.content
+    try:
+        response = client.chat.completions.create(
+            model=MODEL,
+            messages=[{"role": "user", "content": prompt}],
+            max_tokens=512,
+        )
+        content = response.choices[0].message.content
+        return content or _fallback_followup(question, disease_name, language)
+    except Exception:
+        return _fallback_followup(question, disease_name, language)
