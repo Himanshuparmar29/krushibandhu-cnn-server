@@ -20,5 +20,3 @@ TS_1.jpg
 test.py
 train.py
 evaluate.py
-convert_to_tflite.py
-model/model_final.keras
